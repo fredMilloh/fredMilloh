@@ -8,7 +8,7 @@
     - [Instagrid](https://github.com/fredMilloh/Instagrid), a photo grid composition to share.
     - [OpenQuizz](https://github.com/fredMilloh/OpenQuizz), a quizz game
 
-- Use of Firebase for authentication, storage, retrieval of data in the database. CRUD d'authentication, Firestore Database et Storage(images). [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
+- Using Firebase methods to authenticate and store data. CRUD authentication, Firestore Database and Storage (images). [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
 
 
 - Retrieving data from an API using the Alamofire library, geolocated annotations with frameworks Mapkit, CoreLocation. Application [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) free toilets in Paris with geolocation and pedestrian route, in French and English.
