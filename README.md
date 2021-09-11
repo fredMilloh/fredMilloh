@@ -3,7 +3,7 @@
 ## iOS mobile application developer 
 
 Provide functionality improvements to an existing application, creating an MVC software architecture, correcting malfunctions, perform a suite of unit and integration tests (TDD & RGR). Data communication with protocol. Syntax check with SwiftLint.
- - [CountOnMe](), a calculator for iPhone.
+- [OpenHeartSurgery](), perform the main operations on iPhone.
 
 Creating a responsive design from a mockup, interpreting gestures on a touch screen, and set up an architecture adapted to a project.
  - [Instagrid](https://github.com/fredMilloh/Instagrid), a photo grid composition to share.
