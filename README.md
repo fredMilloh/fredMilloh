@@ -50,7 +50,7 @@ Jul 24, 2020
 > #### Agenda of cultural activities in the city of Nantes Personal project
 > 
 > Use of framworks FSCalendar, MessageUI and Mapkit
->> ![Icon-App-20x20@2x](https://user-images.githubusercontent.com/47221695/134814759-752d2ef3-c01b-45b5-bdc6-abd4ff4c6866.png) [Activites Culturelles Nantes project]()
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134815320-be206138-8218-49ba-95ff-afce91a65ab0.png"> [Activites Culturelles Nantes project]()
 
 Apr 30, 2020
 > #### Main information of a country
@@ -83,7 +83,7 @@ Sep 01, 2018
 
 May 06, 2018
 > ##### Learn how to create your website with HTML5 and CSS3 
->> [Autour du Miel project](https://github.com/fredMilloh/autourDuMiel)
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134815601-ef992003-8ec7-4203-b824-362e572eefc7.png"> [Autour du Miel project](https://github.com/fredMilloh/autourDuMiel)
 
 ---
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=fredMilloh&count_private=true&show_icons=true&hide=contribs)
