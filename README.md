@@ -9,12 +9,12 @@
 Sept 29, 2021
 > #### OpenHeartSurgery, perform the main operations on iPhone
 > Provide functionality improvements to an existing application, creating an MVC software architecture, correcting malfunctions, perform a suite of unit and integration tests (TDD & RGR). Data communication with protocol. Syntax check with SwiftLint.
->>[OpenHeartSurgery project]()
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [OpenHeartSurgery project]()
 
 Sept 01, 2021
 > #### INSTAGRID, a photo grid composition to share
 > Creating a responsive design from a mockup, interpreting gestures on a touch screen, and set up an architecture adapted to a project.
->> [Instagrid project](https://github.com/fredMilloh/Instagrid)
+>> ![Icon_20pt@2x](https://user-images.githubusercontent.com/47221695/134814265-5935cdfc-751f-4276-9ccf-23d92e0ecc67.png) [Instagrid project](https://github.com/fredMilloh/Instagrid)
 
 Aug 04, 2021 
 > #### RPG game model in macOS project
@@ -39,23 +39,23 @@ Apr 06, 2021
 > free toilets in Paris with geolocation and pedestrian route, in French and English.
 > 
 > Retrieving data from an API using the Alamofire library, geolocated annotations with frameworks Mapkit, CoreLocation.
->> [ParisPetitCoin project](https://github.com/fredMilloh/ParisPetitCoin) 
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin project](https://github.com/fredMilloh/ParisPetitCoin) 
 
 Feb 17, 2021
 > #### FirebaseCRUD Personal project
 > Using Firebase methods to authenticate and store data. CRUD authentication, Firestore Database and Storage (images).
->> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
 
 Jul 24, 2020
 > #### Agenda of cultural activities in the city of Nantes Personal project
 > 
 > Use of framworks FSCalendar, MessageUI and Mapkit
->> [Activites Culturelles Nantes project](https://github.com/fredMilloh/activitesCulturellesNantes)
+>> ![Icon-App-20x20@2x](https://user-images.githubusercontent.com/47221695/134814759-752d2ef3-c01b-45b5-bdc6-abd4ff4c6866.png) [Activites Culturelles Nantes project]()
 
 Apr 30, 2020
 > #### Main information of a country
 > Use URLSession, WebKit and restcountries API
->> [CountryInfo](https://github.com/fredMilloh/countryInfo)
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814684-448a6a68-95f1-4c4b-9656-65d9ed2a9df0.png"> [CountryInfo]()
 
 ---
 # Certificate obtained as a free candidate 
