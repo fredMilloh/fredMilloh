@@ -26,7 +26,7 @@ Jun 08, 2021
  >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/) 
 
 ---
-## Personal projects
+# Personal projects
 
 ---
 Jul 13, 2021
@@ -58,7 +58,7 @@ Apr 30, 2020
 >> [CountryInfo](https://github.com/fredMilloh/countryInfo)
 
 ---
-## Certificate obtained as a free candidate 
+# Certificate obtained as a free candidate 
 
 ---
   at OPENCLASSROOMS School
