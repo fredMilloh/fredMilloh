@@ -86,4 +86,7 @@ May 06, 2018
 >> [Autour du Miel project](https://github.com/fredMilloh/autourDuMiel)
 
 ---
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=fredMilloh&count_private=true&show_icons=true&hide=contribs)
+
+---
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fredMilloh.fredMilloh)
