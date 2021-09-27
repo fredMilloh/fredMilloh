@@ -1,6 +1,8 @@
 # fredMilloh
 
-> iOS mobile application developer 
+> Student iOS mobile application developer 
+> 
+> Available in 2022 for internship, assignment, fixed-term contract, permanent contract
 
 ---
   # Application projects related to the school's curriculum 
@@ -30,33 +32,22 @@ Jun 08, 2021
 
 ---
 Jul 13, 2021
-> #### Xib and Storyboard tutorial on [Hashnode](https://hashnode.com/).
+> #### Xib and Storyboard *tutorial* on [Hashnode](https://hashnode.com/).
 > Relationship between an Xib view, the storyboard and the controller.
 >> [Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
 
 Apr 06, 2021
-> #### ParisPetitCoin  Personal project
+> #### ParisPetitCoin  
 > free toilets in Paris with geolocation and pedestrian route, in French and English.
 > 
 > Retrieving data from an API using the Alamofire library, geolocated annotations with frameworks Mapkit, CoreLocation.
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin project](https://github.com/fredMilloh/ParisPetitCoin) 
 
 Feb 17, 2021
-> #### FirebaseCRUD Personal project
+> #### FirebaseCRUD 
 > Using Firebase methods to authenticate and store data. CRUD authentication, Firestore Database and Storage (images).
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
-
-Jul 24, 2020
-> #### Agenda of cultural activities in the city of Nantes Personal project
-> 
-> Use of framworks FSCalendar, MessageUI and Mapkit
->> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134815320-be206138-8218-49ba-95ff-afce91a65ab0.png"> [Activites Culturelles Nantes project]()
-
-Apr 30, 2020
-> #### Main information of a country
-> Use URLSession, WebKit and restcountries API
->> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814684-448a6a68-95f1-4c4b-9656-65d9ed2a9df0.png"> [CountryInfo]()
-
+>> 
 ---
 # Certificate obtained as a free candidate 
 
