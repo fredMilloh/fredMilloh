@@ -11,7 +11,7 @@
 Sept 29, 2021
 > #### OpenHeartSurgery, perform the main operations on iPhone
 > Provide functionality improvements to an existing application, creating an MVC software architecture, correcting malfunctions, perform a suite of unit and integration tests (TDD & RGR). Data communication with protocol. Syntax check with SwiftLint.
->> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [OpenHeartSurgery project]()
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [OpenHeartSurgery project](https://github.com/fredMilloh/OpenHeartSurgery)
 
 Sept 01, 2021
 > #### INSTAGRID, a photo grid composition to share
