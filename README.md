@@ -26,6 +26,7 @@ Aug 04, 2021
 Jun 08, 2021    
 > #### Back to school iOS application developer training
  >>  <img width="40" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/136688644-4eba0612-53f1-4373-b8b6-54d4b3e7c7ad.png"> [Grande Ecole du Numérique](https://www.grandeecolenumerique.fr/)
+ 
  >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/) 
 
 ---
