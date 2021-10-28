@@ -1,81 +1,86 @@
 # fredMilloh
 
-> Student iOS mobile application developer 
+> Etudiant Développeur d'applications Mobiles iOS
 > 
-> Available in 2022 for internship, assignment, fixed-term contract, permanent contract
+> Disponible à partir de févier 2022 pour stage, contrat, mission.
 
 ---
-  # Application projects related to the school's curriculum 
+  # Projets d'application liés au programme d'études de l'école  
  
 ---
-Sept 29, 2021
-> #### OpenHeartSurgery, perform the main operations on iPhone
-> Provide functionality improvements to an existing application, creating an MVC software architecture, correcting malfunctions, perform a suite of unit and integration tests (TDD & RGR). Data communication with protocol. Syntax check with SwiftLint.
+28 octobre 2021
+> #### Analyser les besoins de votre client pour son groupe de pizzerias
+> Analyser un besoin client. Lister les fonctionnalités demandées par un client. Rédiger les spécifications détaillées d'un projet incluant des diagrammes de contexte, de cas d'utilisation, d'activité et de classe. Sélectionner une solution technique adaptée, avec des arguments provenant de sources fiables.
+>><img width="200" src="https://user-images.githubusercontent.com/47221695/139226015-9385dc80-2896-4b23-8b75-dfb408ac507a.png">
+
+29 septembre 2021
+> #### OpenHeartSurgery, effectuer les principales opérations sur l'iPhone
+> Apporter des améliorations fonctionnelles à une application existante, en créant une architecture logicielle MVC, en corrigeant les dysfonctionnements, en réalisant une suite de tests unitaires et d'intégration (TDD & RGR). Communication de données avec protocole. Contrôle syntaxique avec SwiftLint.
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [OpenHeartSurgery project](https://github.com/fredMilloh/OpenHeartSurgery)
 
-Sept 01, 2021
-> #### INSTAGRID, a photo grid composition to share
-> Creating a responsive design from a mockup, interpreting gestures on a touch screen, and set up an architecture adapted to a project.
+01 septembre 2021
+> #### INSTAGRID, une grille de composition de photos à partager
+> Créer une application s’adaptant à la taille des écrans, à partir d'une maquette, interpréter les gestes sur un écran tactile, et mettre en place une architecture adaptée à un projet.
 >> ![Icon_20pt@2x](https://user-images.githubusercontent.com/47221695/134814265-5935cdfc-751f-4276-9ccf-23d92e0ecc67.png) [Instagrid project](https://github.com/fredMilloh/Instagrid)
 
-Aug 04, 2021 
-> #### RPG game model in macOS project
-> Object-Oriented Programming with game model.
+04 août 2021 
+> #### Modèle de jeu RPG dans le projet macOS
+> Programmation orientée objet avec modèle de jeu.
 >> [FightersClashes project](https://github.com/fredMilloh/FightersClashes)
 
-Jun 08, 2021    
-> #### Back to school iOS application developer training
+08 juin 2021    
+> #### Retour à l'école - Formation de développeur d'applications iOS
  >>  <img width="40" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/136688644-4eba0612-53f1-4373-b8b6-54d4b3e7c7ad.png"> [Grande Ecole du Numérique](https://www.grandeecolenumerique.fr/)
  
  >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/) 
 
 ---
-# Personal projects
+# Projets personnels
 
 ---
-Jul 13, 2021
-> #### Xib and Storyboard *tutorial* on [Hashnode](https://hashnode.com/).
-> Relationship between an Xib view, the storyboard and the controller.
+13 juillet 2021
+> #### Xib et Storyboard *tutoriel* sur [Hashnode](https://hashnode.com/).
+> Relation entre une vue Xib, le storyboard et le contrôleur.
 >> [Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
 
-Apr 06, 2021
+06 avril 2021
 > #### ParisPetitCoin  
-> free toilets in Paris with geolocation and pedestrian route, in French and English.
+> Toilettes gratuites à Paris avec géolocalisation et parcours piéton, en français et en anglais.
 > 
-> Retrieving data from an API using the Alamofire library, geolocated annotations with frameworks Mapkit, CoreLocation.
+> Récupération des données d'une API à l'aide de la bibliothèque Alamofire, annotations géolocalisées avec les frameworks Mapkit, CoreLocation.
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin project](https://github.com/fredMilloh/ParisPetitCoin) 
 
-Feb 17, 2021
+17 février 2021
 > #### FirebaseCRUD 
-> Using Firebase methods to authenticate and store data. CRUD authentication, Firestore Database and Storage (images).
+> Utilisation des méthodes Firebase pour l'authentification et le stockage des données. Authentification CRUD, base de données Firestore et stockage (images, comptes utilisateurs).
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
 >> 
 ---
-# Certificate obtained as a free candidate 
+# Certificats obtenus en candidat libre 
 
 ---
-  at OPENCLASSROOMS School
+  école OPENCLASSROOMS 
  
- May 23, 2021
- > ##### Go full stack with Node.js, Express and MongoDB
+ 23 mai 2021
+ > ##### Passez au full stack avec Node.js, Express et MongoDB
 
-Jun 16, 2020
-> ##### Make your data persist in your iOS application
+16 juin 2020
+> ##### Faites persister vos données dans votre application iOS
 
- Nov 13, 2019
- > ##### Learn the fundamentals and Object Oriented Programming in Swift
+ 13 novembre 2019
+ > ##### Apprenez les principes fondamentaux de la programmation orientée objet en Swift
 
-Jul 24, 2019
-> ##### Use Git and GitHub for your development projects 
+24 juillet 2019
+> ##### Utiliser Git et GitHub pour vos projets de développement
 
-Feb 10, 2019
-> ##### Take back control with Linux! 
+10 février 2019
+> ##### Reprenez le contrôle avec Linux ! 
 
-Sep 01, 2018
-> ##### Learn to code with JavaScript 
+01 septembre 2018
+> ##### Apprendre à coder avec JavaScript 
 
-May 06, 2018
-> ##### Learn how to create your website with HTML5 and CSS3 
+06 mai 2018
+> ##### Apprenez à créer votre site web avec HTML5 et CSS3 
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134815601-ef992003-8ec7-4203-b824-362e572eefc7.png"> [Autour du Miel project](https://github.com/fredMilloh/autourDuMiel)
 
 ---
