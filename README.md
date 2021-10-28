@@ -1,3 +1,4 @@
+[english version](https://github.com/fredMilloh/#English)
 # fredMilloh
 
 > Etudiant Développeur d'Applications Mobiles iOS
@@ -88,3 +89,90 @@
 
 ---
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fredMilloh.fredMilloh)
+
+# English
+# fredMilloh
+
+> Student iOS mobile application developer 
+> 
+> Available in 2022 for internship, assignment, fixed-term contract, permanent contract
+
+---
+  # Application projects related to the school's curriculum 
+ 
+---
+Oct 28, 2021
+> #### Analyse your client's needs for their group of pizzerias
+> Analysing a customer need. List the features requested by a client. Writing detailed specifications for a project including context, use case, activity and class diagrams. Select a suitable technical solution, with arguments from reliable sources.
+>><img width="100" src="https://user-images.githubusercontent.com/47221695/139226015-9385dc80-2896-4b23-8b75-dfb408ac507a.png">
+
+Sept 29, 2021
+> #### OpenHeartSurgery, perform the main calculation operations on iPhone
+> Making functional improvements to an existing application, creating an MVC software architecture, correcting malfunctions, performing a suite of unit and integration tests (TDD & RGR). Data communication with protocol (Delegation Design Pattern). Syntax checking with SwiftLint.
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [OpenHeartSurgery project](https://github.com/fredMilloh/OpenHeartSurgery)
+
+Sept 01, 2021
+> #### INSTAGRID, a photo grid composition to share
+> Creating a responsive design from a mockup, interpreting gestures on a touch screen, and set up an architecture adapted to a project.
+>> ![Icon_20pt@2x](https://user-images.githubusercontent.com/47221695/134814265-5935cdfc-751f-4276-9ccf-23d92e0ecc67.png) [Instagrid project](https://github.com/fredMilloh/Instagrid)
+
+Aug 04, 2021 
+> #### RPG game model in macOS project
+> Object-Oriented Programming with game model.
+>> [FightersClashes project](https://github.com/fredMilloh/FightersClashes)
+
+Jun 08, 2021    
+> #### Back to school - Diploma course -  iOS application developer 
+ >>  <img width="40" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/136688644-4eba0612-53f1-4373-b8b6-54d4b3e7c7ad.png"> [Grande Ecole du Numérique](https://www.grandeecolenumerique.fr/)
+ 
+ >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/) 
+
+---
+# Personal projects
+
+---
+Jul 13, 2021
+> #### Xib and Storyboard *tutorial* on [Hashnode](https://hashnode.com/).
+> Relationship between an Xib view, the storyboard and the controller.
+>> [Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
+
+Apr 06, 2021
+> #### ParisPetitCoin  
+> Application indicating free toilets in Paris with geolocation and pedestrian route to get there, in French and English.
+> 
+> Retrieving data from an API using the Alamofire library, geolocated annotations with frameworks Mapkit, CoreLocation.
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin project](https://github.com/fredMilloh/ParisPetitCoin) 
+
+Feb 17, 2021
+> #### FirebaseCRUD 
+> Using Firebase methods to authenticate and store data. CRUD authentication, Firestore Database and Storage (images).
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
+>> 
+---
+# Certificate obtained as a free candidate 
+
+---
+  at OPENCLASSROOMS School
+ 
+ May 23, 2021
+ > ##### Go full stack with Node.js, Express and MongoDB
+
+Jun 16, 2020
+> ##### Make your data persist in your iOS application
+
+ Nov 13, 2019
+ > ##### Learn the fundamentals and Object Oriented Programming in Swift
+
+Jul 24, 2019
+> ##### Use Git and GitHub for your development projects 
+
+Feb 10, 2019
+> ##### Take back control with Linux! 
+
+Sep 01, 2018
+> ##### Learn to code with JavaScript 
+
+May 06, 2018
+> ##### Learn how to create your website with HTML5 and CSS3 
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134815601-ef992003-8ec7-4203-b824-362e572eefc7.png"> [Autour du Miel project](https://github.com/fredMilloh/autourDuMiel)
+
