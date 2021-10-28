@@ -92,9 +92,10 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fredMilloh.fredMilloh)
 
 
-[<img width="30" alt="FrenchFlag" src="https://user-images.githubusercontent.com/47221695/139254412-a0c11222-91d7-400d-b8cd-896da8d09a6f.png">](https://github.com/fredMilloh/version-Française)     [<img width="30" alt="UnionJack" src="https://user-images.githubusercontent.com/47221695/139236243-a2b81b16-b629-4df1-995e-0cdf123a9f30.png">](https://github.com/fredMilloh/#English-version)
+[<img width="30" alt="FrenchFlag" src="https://user-images.githubusercontent.com/47221695/139254412-a0c11222-91d7-400d-b8cd-896da8d09a6f.png">](https://github.com/fredMilloh/#fredMilloh-fr)     [<img width="30" alt="UnionJack" src="https://user-images.githubusercontent.com/47221695/139236243-a2b81b16-b629-4df1-995e-0cdf123a9f30.png">](https://github.com/fredMilloh/#english-version)
+# english version
 
-# fredMilloh en
+# fredMilloh
 
 > Student iOS mobile application developer 
 > 
