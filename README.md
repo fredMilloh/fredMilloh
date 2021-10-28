@@ -1,4 +1,4 @@
-[english version](https://github.com/fredMilloh/#English)
+[<img width="50" alt="UnionJack" src="https://user-images.githubusercontent.com/47221695/139236243-a2b81b16-b629-4df1-995e-0cdf123a9f30.png">](https://github.com/fredMilloh/#English)
 # fredMilloh
 
 > Etudiant Développeur d'Applications Mobiles iOS
