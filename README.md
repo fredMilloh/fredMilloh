@@ -1,21 +1,21 @@
 # fredMilloh
 
-> Etudiant Développeur d'applications Mobiles iOS
+> Etudiant Développeur d'Applications Mobiles iOS
 > 
 > Disponible à partir de févier 2022 pour stage, contrat, mission.
 
 ---
-  # Projets d'application liés au programme d'études de l'école  
+  # Projets d'applications liés au programme d'étude de l'école  
  
 ---
 28 octobre 2021
 > #### Analyser les besoins de votre client pour son groupe de pizzerias
 > Analyser un besoin client. Lister les fonctionnalités demandées par un client. Rédiger les spécifications détaillées d'un projet incluant des diagrammes de contexte, de cas d'utilisation, d'activité et de classe. Sélectionner une solution technique adaptée, avec des arguments provenant de sources fiables.
->><img width="200" src="https://user-images.githubusercontent.com/47221695/139226015-9385dc80-2896-4b23-8b75-dfb408ac507a.png">
+>><img width="100" src="https://user-images.githubusercontent.com/47221695/139226015-9385dc80-2896-4b23-8b75-dfb408ac507a.png">
 
 29 septembre 2021
-> #### OpenHeartSurgery, effectuer les principales opérations sur l'iPhone
-> Apporter des améliorations fonctionnelles à une application existante, en créant une architecture logicielle MVC, en corrigeant les dysfonctionnements, en réalisant une suite de tests unitaires et d'intégration (TDD & RGR). Communication de données avec protocole. Contrôle syntaxique avec SwiftLint.
+> #### OpenHeartSurgery, effectuer les principales opérations de calcul sur l'iPhone
+> Apporter des améliorations fonctionnelles à une application existante, en créant une architecture logicielle MVC, corrigeant les dysfonctionnements, réalisant une suite de tests unitaires et d'intégration (TDD & RGR). Communication de données avec protocole (Delegation Design Pattern). Contrôle syntaxique avec SwiftLint.
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [OpenHeartSurgery project](https://github.com/fredMilloh/OpenHeartSurgery)
 
 01 septembre 2021
@@ -29,7 +29,7 @@
 >> [FightersClashes project](https://github.com/fredMilloh/FightersClashes)
 
 08 juin 2021    
-> #### Retour à l'école - Formation de développeur d'applications iOS
+> #### Retour à l'école - Formation diplômante de développeur d'applications iOS - niveau 6 (Bac+3/4)
  >>  <img width="40" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/136688644-4eba0612-53f1-4373-b8b6-54d4b3e7c7ad.png"> [Grande Ecole du Numérique](https://www.grandeecolenumerique.fr/)
  
  >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/) 
@@ -45,14 +45,14 @@
 
 06 avril 2021
 > #### ParisPetitCoin  
-> Toilettes gratuites à Paris avec géolocalisation et parcours piéton, en français et en anglais.
+> Application indiquant les toilettes gratuites à Paris avec géolocalisation et parcours piéton pour s'y rendre, en français et en anglais.
 > 
 > Récupération des données d'une API à l'aide de la bibliothèque Alamofire, annotations géolocalisées avec les frameworks Mapkit, CoreLocation.
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin project](https://github.com/fredMilloh/ParisPetitCoin) 
 
 17 février 2021
 > #### FirebaseCRUD 
-> Utilisation des méthodes Firebase pour l'authentification et le stockage des données. Authentification CRUD, base de données Firestore et stockage (images, comptes utilisateurs).
+> Utilisation des méthodes Firebase pour l'authentification et le stockage des données. Authentification, base de données Firestore et Storage (images).
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
 >> 
 ---
