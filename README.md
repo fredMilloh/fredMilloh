@@ -5,11 +5,20 @@
 > Etudiant Développeur d'Applications Mobiles iOS
 > 
 > Disponible à partir de févier 2022 pour stage, contrat, mission.
+>
+> C'est avec plaisir que je répondrai à toute demande de renseignements : fred.milloh@hotmail.com
 
 ---
   # Projets d'applications liés au programme d'étude de l'école  
  
 ---
+22 novembre 2021
+>#### Concevevoir la solution technique d'un système de gestion de pizzeria
+> Décrire un domaine fonctionnel avec UML. Concevoir l'architecture technique d'une application à l'aide de diagramme UML. Implémenter le schéma de données dans la base. Réaliser un schéma de conception de la base de données de l'application.
+> Modèle Physique de données (MPD) avec SQL Power Architect. Diagramme de composants. Diagramme de déploiement. Base de données PostgreSQL (SGBD-R) avec jeu de données.
+>><img width="250"  src="https://user-images.githubusercontent.com/47221695/144757624-c8ca27ee-14d3-4d0d-a83d-2c2c56bdfb3c.png">
+
+
 28 octobre 2021
 > #### Analyser les besoins de votre client pour son groupe de pizzerias
 > Analyser un besoin client. Lister les fonctionnalités demandées par un client. Rédiger les spécifications détaillées d'un projet incluant des diagrammes de contexte, de cas d'utilisation, d'activité et de classe. Sélectionner une solution technique adaptée, avec des arguments provenant de sources fiables.
@@ -31,9 +40,9 @@
 >> [FightersClashes project](https://github.com/fredMilloh/FightersClashes)
 
 08 juin 2021    
-> #### Retour à l'école - Formation diplômante de développeur d'applications iOS - niveau 6 (Bac+3/4)
- >>  <img width="40" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/136688644-4eba0612-53f1-4373-b8b6-54d4b3e7c7ad.png"> [Grande Ecole du Numérique](https://www.grandeecolenumerique.fr/)
- 
+> #### Retour à l'école - Formation diplômante - Développeur d'applications iOS - niveau 6 (Bac+3/4)
+
+ >> OpenClassrooms est un établissement privé d'enseignement à distance déclaré au rectorat de l'Académie de Paris. 
  >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/) 
 
 ---
@@ -101,11 +110,19 @@
 > Student iOS mobile application developer 
 > 
 > Available in 2022 for internship, assignment, fixed-term contract, permanent contract
+>
+> I will be happy to answer any enquiries: fred.milloh@hotmail.com
 
 ---
   # Application projects related to the school's curriculum 
  
 ---
+Nov 22, 2021
+>#### Design the technical solution for a pizzeria management system
+> Describe a functional domain with UML. Design the technical architecture of an application using UML diagrams. Implement the data schema in the database. Produce a design diagram of the application database.
+> Physical Data Model (PDM) with SQL Power Architect. Component diagram. Deployment diagram. PostgreSQL (DBMS) database with dataset.
+>><img width="250"  src="https://user-images.githubusercontent.com/47221695/144757624-c8ca27ee-14d3-4d0d-a83d-2c2c56bdfb3c.png">
+
 Oct 28, 2021
 > #### Analyse your client's needs for their group of pizzerias
 > Analysing a customer need. List the features requested by a client. Writing detailed specifications for a project including context, use case, activity and class diagrams. Select a suitable technical solution, with arguments from reliable sources.
@@ -128,8 +145,7 @@ Aug 04, 2021
 
 Jun 08, 2021    
 > #### Back to school - Diploma course -  iOS application developer 
- >>  <img width="40" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/136688644-4eba0612-53f1-4373-b8b6-54d4b3e7c7ad.png"> [Grande Ecole du Numérique](https://www.grandeecolenumerique.fr/)
- 
+ >>  OpenClassrooms est un établissement privé d'enseignement à distance déclaré au rectorat de l'Académie de Paris.
  >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/) 
 
 ---
@@ -181,3 +197,8 @@ May 06, 2018
 > ##### Learn how to create your website with HTML5 and CSS3 
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134815601-ef992003-8ec7-4203-b824-362e572eefc7.png"> [Autour du Miel project](https://github.com/fredMilloh/autourDuMiel)
 
+---
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=fredMilloh&count_private=true&show_icons=true&hide=contribs)
+
+---
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fredMilloh.fredMilloh)
