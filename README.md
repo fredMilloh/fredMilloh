@@ -12,8 +12,14 @@
   # Projets d'applications liés au programme d'étude de l'école  
  
 ---
+22 décembre 2021
+> #### Documentez votre système de gestion de pizzeria
+> Produire une documentation technique et fonctionnelle de l'application. 
+> Dossier de conception fonctionnelle, dossier de conception technique, dossier d'exploitation.
+>><img width="100" src="https://user-images.githubusercontent.com/47221695/147277322-2aec33c1-4bcd-475b-8417-a44f7772b300.png">
+
 22 novembre 2021
->#### Concevevoir la solution technique d'un système de gestion de pizzeria
+> #### Concevevoir la solution technique d'un système de gestion de pizzeria
 > Décrire un domaine fonctionnel avec UML. Concevoir l'architecture technique d'une application à l'aide de diagramme UML. Implémenter le schéma de données dans la base. Réaliser un schéma de conception de la base de données de l'application.
 > Modèle Physique de données (MPD) avec SQL Power Architect. Diagramme de composants. Diagramme de déploiement. Base de données PostgreSQL (SGBD-R) avec jeu de données.
 >><img width="250"  src="https://user-images.githubusercontent.com/47221695/144757624-c8ca27ee-14d3-4d0d-a83d-2c2c56bdfb3c.png">
@@ -49,6 +55,10 @@
 # Projets personnels
 
 ---
+Novembre 2021
+> #### Initiation SwiftUI
+> [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
+
 13 juillet 2021
 > #### Xib et Storyboard *tutoriel* sur [Hashnode](https://hashnode.com/).
 > Relation entre une vue Xib, le storyboard et le contrôleur.
@@ -117,8 +127,14 @@
   # Application projects related to the school's curriculum 
  
 ---
+Déc 22, 2021
+> #### Document your pizzeria management system.
+> Produce technical and functional documentation of the application. 
+> Functional design file, technical design file, operating file.
+>><img width="100" src="https://user-images.githubusercontent.com/47221695/147277322-2aec33c1-4bcd-475b-8417-a44f7772b300.png">
+
 Nov 22, 2021
->#### Design the technical solution for a pizzeria management system
+> #### Design the technical solution for a pizzeria management system
 > Describe a functional domain with UML. Design the technical architecture of an application using UML diagrams. Implement the data schema in the database. Produce a design diagram of the application database.
 > Physical Data Model (PDM) with SQL Power Architect. Component diagram. Deployment diagram. PostgreSQL (DBMS) database with dataset.
 >><img width="250"  src="https://user-images.githubusercontent.com/47221695/144757624-c8ca27ee-14d3-4d0d-a83d-2c2c56bdfb3c.png">
@@ -152,6 +168,10 @@ Jun 08, 2021
 # Personal projects
 
 ---
+November 2021
+> #### Introducing SwiftUI
+> [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
+
 Jul 13, 2021
 > #### Xib and Storyboard *tutorial* on [Hashnode](https://hashnode.com/).
 > Relationship between an Xib view, the storyboard and the controller.
