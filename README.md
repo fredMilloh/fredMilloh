@@ -2,8 +2,8 @@
 
 # fredMilloh
 
-> Etudiant Développeur d'Applications Mobiles iOS
-> 
+> Etudiant Développeur d'Applications Mobiles iOS.
+>
 > Disponible à partir de Mai 2022 pour stage, contrat, mission.
 >
 > C'est avec plaisir que je répondrai à toute demande de renseignements : fred.milloh@hotmail.com
@@ -15,10 +15,8 @@
 
 25 janvier 2022
 > #### Réaliser une application de voyage (conversion, traduction, météo)
-> Effectuer des appels réseaux avec Swift
-
-> Faire des tests unitaires
-
+> Effectuer des appels réseaux avec Swift.
+> Faire des tests unitaires.
 > Coder une application multi-pages avec Swift
 >><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
 
@@ -140,11 +138,9 @@ Novembre 2021
 
 25 janvier 2022
 > #### Build a travel application (conversion, translation, weather)
-> Making network calls with Swift
-
-> Make unit tests
-
-> Coding a multi-page application with Swift
+> Making network calls with Swift.
+> Make unit tests.
+> Coding a multi-page application with Swift.
 >><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [Le Baluchon project](https://github.com/fredMilloh/TravelTools)
 
 Déc 22, 2021
