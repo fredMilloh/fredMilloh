@@ -4,7 +4,7 @@
 
 > Etudiant Développeur d'Applications Mobiles iOS
 > 
-> Disponible à partir de févier 2022 pour stage, contrat, mission.
+> Disponible à partir de Mai 2022 pour stage, contrat, mission.
 >
 > C'est avec plaisir que je répondrai à toute demande de renseignements : fred.milloh@hotmail.com
 
@@ -16,9 +16,11 @@
 25 janvier 2022
 > #### Réaliser une application de voyage (conversion, traduction, météo)
 > Effectuer des appels réseaux avec Swift
+
 > Faire des tests unitaires
+
 > Coder une application multi-pages avec Swift
->><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [Le Baluchon project](https://github.com/fredMilloh/TravelTools)
+>><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
 
 22 décembre 2021
 > #### Documentez votre système de gestion de pizzeria
@@ -41,17 +43,17 @@
 29 septembre 2021
 > #### OpenHeartSurgery, effectuer les principales opérations de calcul sur l'iPhone
 > Apporter des améliorations fonctionnelles à une application existante, en créant une architecture logicielle MVC, corrigeant les dysfonctionnements, réalisant une suite de tests unitaires et d'intégration (TDD & RGR). Communication de données avec protocole (Delegation Design Pattern). Contrôle syntaxique avec SwiftLint.
->> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [OpenHeartSurgery project](https://github.com/fredMilloh/OpenHeartSurgery)
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [projet OpenHeartSurgery](https://github.com/fredMilloh/OpenHeartSurgery)
 
 01 septembre 2021
 > #### INSTAGRID, une grille de composition de photos à partager
 > Créer une application s’adaptant à la taille des écrans, à partir d'une maquette, interpréter les gestes sur un écran tactile, et mettre en place une architecture adaptée à un projet.
->> ![Icon_20pt@2x](https://user-images.githubusercontent.com/47221695/134814265-5935cdfc-751f-4276-9ccf-23d92e0ecc67.png) [Instagrid project](https://github.com/fredMilloh/Instagrid)
+>> ![Icon_20pt@2x](https://user-images.githubusercontent.com/47221695/134814265-5935cdfc-751f-4276-9ccf-23d92e0ecc67.png) [projet Instagrid](https://github.com/fredMilloh/Instagrid)
 
 04 août 2021 
 > #### Modèle de jeu RPG dans le projet macOS
 > Programmation orientée objet avec modèle de jeu.
->> [FightersClashes project](https://github.com/fredMilloh/FightersClashes)
+>> [projet FightersClashes](https://github.com/fredMilloh/FightersClashes)
 
 08 juin 2021    
 > #### Retour à l'école - Formation diplômante - Développeur d'applications iOS - niveau 6 (Bac+3/4)
@@ -127,7 +129,7 @@ Novembre 2021
 
 > Student iOS mobile application developer 
 > 
-> Available in 2022 for internship, assignment, fixed-term contract, permanent contract
+> Available from May 2022 for an internship, an assignment, a fixed-term contract, a permanent contract
 >
 > I will be happy to answer any enquiries: fred.milloh@hotmail.com
 
@@ -139,7 +141,9 @@ Novembre 2021
 25 janvier 2022
 > #### Build a travel application (conversion, translation, weather)
 > Making network calls with Swift
+
 > Make unit tests
+
 > Coding a multi-page application with Swift
 >><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [Le Baluchon project](https://github.com/fredMilloh/TravelTools)
 
