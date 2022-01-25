@@ -10,8 +10,16 @@
 
 ---
   # Projets d'applications liés au programme d'étude de l'école  
- 
+
 ---
+
+25 janvier 2022
+> #### Réaliser une application de voyage (conversion, traduction, météo)
+> Effectuer des appels réseaux avec Swift
+> Faire des tests unitaires
+> Coder une application multi-pages avec Swift
+>><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [Le Baluchon project](https://github.com/fredMilloh/TravelTools)
+
 22 décembre 2021
 > #### Documentez votre système de gestion de pizzeria
 > Produire une documentation technique et fonctionnelle de l'application. 
@@ -127,6 +135,14 @@ Novembre 2021
   # Application projects related to the school's curriculum 
  
 ---
+
+25 janvier 2022
+> #### Build a travel application (conversion, translation, weather)
+> Making network calls with Swift
+> Make unit tests
+> Coding a multi-page application with Swift
+>><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [Le Baluchon project](https://github.com/fredMilloh/TravelTools)
+
 Déc 22, 2021
 > #### Document your pizzeria management system.
 > Produce technical and functional documentation of the application. 
