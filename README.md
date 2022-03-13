@@ -12,6 +12,12 @@
   # Projets d'applications liés au programme d'étude de l'école  
 
 ---
+28 février 2022
+> #### Réalisation d'une application permettant d'obtenir des recettes en fonction de l'inventaire de son frigo. Sauvegarde de recettes en favoris.
+> Utiliser une librairie open source Alamofire.
+> Gérer une Table View. Utiliser le delegate pattern.
+> Sauvegarder des données avec Core Data.
+>><img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
 
 25 janvier 2022
 > #### Réaliser une application de voyage (conversion, traduction, météo)
@@ -136,14 +142,21 @@ Novembre 2021
  
 ---
 
-25 janvier 2022
+Feb 28, 2022
+>#### Creation of an application to obtain recipes based on the inventory of one's fridge. Saving recipes in favourites.
+> Use an open source library Alamofire.
+> Managing a Table View. Use the delegate pattern.
+> Saving data with Core Data.
+>><img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [WhatDoWeEat Reciplease project](https://github.com/fredMilloh/WhatDoWeEat)
+
+Jan 25, 2022
 > #### Build a travel application (conversion, translation, weather)
 > Making network calls with Swift.
 > Make unit tests.
 > Coding a multi-page application with Swift.
 >><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [Le Baluchon project](https://github.com/fredMilloh/TravelTools)
 
-Déc 22, 2021
+Dec 22, 2021
 > #### Document your pizzeria management system.
 > Produce technical and functional documentation of the application. 
 > Functional design file, technical design file, operating file.
