@@ -21,7 +21,7 @@
 28 février 2022
 > #### Réalisation d'une application permettant d'obtenir des recettes en fonction de l'inventaire de son frigo. Sauvegarde de recettes en favoris.
 > Utiliser une librairie open source Alamofire.
-> Gérer une Table View. Utiliser le delegate pattern.
+> Gérer une Table View avec PrefectchDataSource pour la pigination. Utiliser le delegate pattern.
 > Sauvegarder des données avec Core Data.
 >><img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
 
@@ -156,7 +156,7 @@ Mar 9, 2022
 Feb 28, 2022
 >#### Creation of an application to obtain recipes based on the inventory of one's fridge. Saving recipes in favourites.
 > Use an open source library Alamofire.
-> Managing a Table View. Use the delegate pattern.
+> Managing a Table View with PrefetchDataSource for pagination. Use the delegate pattern.
 > Saving data with Core Data.
 >><img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [WhatDoWeEat Reciplease project](https://github.com/fredMilloh/WhatDoWeEat)
 
