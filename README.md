@@ -12,6 +12,12 @@
   # Projets d'applications liés au programme d'étude de l'école  
 
 ---
+
+9 mars 2022
+> #### Construire une veille technologique
+> Sélection de sources d'informations pertinentes.
+> Mettre en place un tableau de bord de veille.
+
 28 février 2022
 > #### Réalisation d'une application permettant d'obtenir des recettes en fonction de l'inventaire de son frigo. Sauvegarde de recettes en favoris.
 > Utiliser une librairie open source Alamofire.
@@ -141,6 +147,11 @@ Novembre 2021
   # Application projects related to the school's curriculum 
  
 ---
+
+Mar 9, 2022
+> #### Building a technology watch
+> Selection of relevant information sources.
+> Setting up a monitoring dashboard.
 
 Feb 28, 2022
 >#### Creation of an application to obtain recipes based on the inventory of one's fridge. Saving recipes in favourites.
