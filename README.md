@@ -3,11 +3,7 @@
 # fredMilloh
 
 > Etudiant Développeur d'Applications Mobiles iOS.
->
-> Disponible à partir de Mai 2022 pour stage, contrat, mission.
->
-> C'est avec plaisir que je répondrai à toute demande de renseignements : fred.milloh@hotmail.com
-
+> Swift UIKit - SwiftUI
 ---
   # Projets d'applications liés au programme d'étude de l'école  
 
@@ -21,7 +17,7 @@
 28 février 2022
 > #### Réalisation d'une application permettant d'obtenir des recettes en fonction de l'inventaire de son frigo. Sauvegarde de recettes en favoris.
 > Utiliser une librairie open source Alamofire.
-> Gérer une Table View avec PrefectchDataSource pour la pigination. Utiliser le delegate pattern.
+> Gérer une Table View avec PrefetchDataSource pour la pigination. Utiliser le delegate pattern.
 > Sauvegarder des données avec Core Data.
 >><img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
 
@@ -75,6 +71,11 @@
 # Projets personnels
 
 ---
+Mars 2022
+> #### Formation Udemy SwiftUI MVVM et Combine
+> #### SwiftUI Property Wrappers par Audrey Tam (raywenderlich)
+> [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers)
+
 Novembre 2021
 > #### Initiation SwiftUI
 > [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
@@ -138,10 +139,8 @@ Novembre 2021
 # fredMilloh
 
 > Student iOS mobile application developer 
-> 
-> Available from May 2022 for an internship, an assignment, a fixed-term contract, a permanent contract
->
-> I will be happy to answer any enquiries: fred.milloh@hotmail.com
+> Swift UIKit - SwiftUI
+
 
 ---
   # Application projects related to the school's curriculum 
@@ -208,6 +207,11 @@ Jun 08, 2021
 # Personal projects
 
 ---
+Mars 2022
+> #### Udemy SwiftUI MVVM and Combine training
+> #### SwiftUI Property Wrappers by Audrey Tam (raywenderlich)
+> [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers)
+
 November 2021
 > #### Introducing SwiftUI
 > [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
