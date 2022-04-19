@@ -4,10 +4,21 @@
 
 > Etudiant Développeur d'Applications Mobiles iOS.
 > Swift UIKit - SwiftUI
+
+> Il y a plusieurs mois, une cousine se plaignait de ne pas savoir où été les toilettes quand elle se promenait dans Paris. C'était le début de l'aventure avec iOS. 
+> Je me suis plonger dans le langage Swift, ai suivi des cours et lui ai fait une petite application [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin).
+> Depuis je n'arrête pas de me former et développer des applications dans le cadre du parcours de formation iOS d'Openclassrooms.
+> Dans le dernier projet, j'utilise SwiftUI et Combine.
+
+
 ---
   # Projets d'applications liés au programme d'étude de l'école  
 
 ---
+Avril 2022
+>#### Développement en cours d'une application listant les rappels de produits de consommation.
+> Utilisation de Sourcetree et Gitflow
+>> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
 9 mars 2022
 > #### Construire une veille technologique
@@ -141,11 +152,20 @@ Novembre 2021
 > Student iOS mobile application developer 
 > Swift UIKit - SwiftUI
 
+> Several months ago, a cousin complained that she didn't know where the toilets were when she was walking around Paris. That was the beginning of the iOS adventure.
+> I immersed myself in the Swift language, took courses and made a small application for it [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin).
+> Since then I've been training and developing applications as part of the Openclassrooms iOS training course.
+> In the last project, I use SwiftUI and Combine.
+
 
 ---
   # Application projects related to the school's curriculum 
  
 ---
+April, 2022
+>#### Ongoing development of an application listing consumer product recalls.
+> Using Sourcetree and Gitflow
+>> [ProductRecall project](https://github.com/fredMilloh/ProductRecall)
 
 Mar 9, 2022
 > #### Building a technology watch
