@@ -5,8 +5,8 @@
 > Etudiant Développeur d'Applications Mobiles iOS.
 > Swift UIKit - SwiftUI
 
-> Il y a plusieurs mois, une cousine se plaignait de ne pas savoir où été les toilettes quand elle se promenait dans Paris. C'était le début de l'aventure avec iOS. 
-> Je me suis plonger dans le langage Swift, ai suivi des cours et lui ai fait une petite application [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin).
+> Il y a plusieurs mois, une cousine se plaignait de ne pas savoir où étaient les toilettes quand elle se promenait dans Paris. C'était le début de l'aventure avec iOS. 
+> Je me suis plongé dans le langage Swift, et lui ai fait une petite application [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin).
 > Depuis je n'arrête pas de me former et développer des applications dans le cadre du parcours de formation iOS d'Openclassrooms.
 > Dans le dernier projet, j'utilise SwiftUI et Combine.
 
@@ -17,7 +17,7 @@
 ---
 Avril 2022
 >#### Développement en cours d'une application listant les rappels de produits de consommation.
-> Utilisation de Sourcetree et Gitflow
+> Utilisation de Sourcetree, Gitflow, SwiftUI et Combine
 >> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
 9 mars 2022
@@ -28,13 +28,14 @@ Avril 2022
 28 février 2022
 > #### Réalisation d'une application permettant d'obtenir des recettes en fonction de l'inventaire de son frigo. Sauvegarde de recettes en favoris.
 > Utiliser une librairie open source Alamofire.
-> Gérer une Table View avec PrefetchDataSource pour la pigination. Utiliser le delegate pattern.
+> Gérer une Table View avec PrefetchDataSource pour la pagination. Cellule commune en xib. Utiliser le delegate pattern.
 > Sauvegarder des données avec Core Data.
 >><img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
 
 25 janvier 2022
 > #### Réaliser une application de voyage (conversion, traduction, météo)
-> Effectuer des appels réseaux avec Swift.
+> Effectuer des appels réseaux avec URLSession.
+> UserDefaults, Storyboard references avec TabBar, DataMocks.
 > Faire des tests unitaires.
 > Coder une application multi-pages avec Swift
 >><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
@@ -46,15 +47,15 @@ Avril 2022
 >><img width="100" src="https://user-images.githubusercontent.com/47221695/147277322-2aec33c1-4bcd-475b-8417-a44f7772b300.png">
 
 22 novembre 2021
-> #### Concevevoir la solution technique d'un système de gestion de pizzeria
+> #### Concevoir la solution technique d'un système de gestion de pizzeria
 > Décrire un domaine fonctionnel avec UML. Concevoir l'architecture technique d'une application à l'aide de diagramme UML. Implémenter le schéma de données dans la base. Réaliser un schéma de conception de la base de données de l'application.
 > Modèle Physique de données (MPD) avec SQL Power Architect. Diagramme de composants. Diagramme de déploiement. Base de données PostgreSQL (SGBD-R) avec jeu de données.
 >><img width="250"  src="https://user-images.githubusercontent.com/47221695/144757624-c8ca27ee-14d3-4d0d-a83d-2c2c56bdfb3c.png">
 
 
 28 octobre 2021
-> #### Analyser les besoins de votre client pour son groupe de pizzerias
-> Analyser un besoin client. Lister les fonctionnalités demandées par un client. Rédiger les spécifications détaillées d'un projet incluant des diagrammes de contexte, de cas d'utilisation, d'activité et de classe. Sélectionner une solution technique adaptée, avec des arguments provenant de sources fiables.
+> #### Analyser les besoins d'un client pour son groupe de pizzerias
+> Lister les fonctionnalités demandées par un client. Rédiger les spécifications détaillées d'un projet incluant des diagrammes de contexte, de cas d'utilisation, d'activité et de classe. Sélectionner une solution technique adaptée, avec des arguments provenant de sources fiables.
 >><img width="100" src="https://user-images.githubusercontent.com/47221695/139226015-9385dc80-2896-4b23-8b75-dfb408ac507a.png">
 
 29 septembre 2021
@@ -64,12 +65,12 @@ Avril 2022
 
 01 septembre 2021
 > #### INSTAGRID, une grille de composition de photos à partager
-> Créer une application s’adaptant à la taille des écrans, à partir d'une maquette, interpréter les gestes sur un écran tactile, et mettre en place une architecture adaptée à un projet.
+> Créer une application s’adaptant à la taille des écrans, à partir d'un cahier des charges, interpréter les gestes sur un écran tactile, et mettre en place une architecture adaptée à un projet.
 >> ![Icon_20pt@2x](https://user-images.githubusercontent.com/47221695/134814265-5935cdfc-751f-4276-9ccf-23d92e0ecc67.png) [projet Instagrid](https://github.com/fredMilloh/Instagrid)
 
 04 août 2021 
 > #### Modèle de jeu RPG dans le projet macOS
-> Programmation orientée objet avec modèle de jeu.
+> Programmation orientée objet.
 >> [projet FightersClashes](https://github.com/fredMilloh/FightersClashes)
 
 08 juin 2021    
@@ -152,8 +153,8 @@ Novembre 2021
 > Student iOS mobile application developer 
 > Swift UIKit - SwiftUI
 
-> Several months ago, a cousin complained that she didn't know where the toilets were when she was walking around Paris. That was the beginning of the iOS adventure.
-> I immersed myself in the Swift language, took courses and made a small application for it [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin).
+> Several months ago, a cousin complained that she didn't know where the toilets were when she was walking around Paris. That was the beginning of the adventure with iOS. 
+> I immersed myself in the Swift language, and made her a little application [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin).
 > Since then I've been training and developing applications as part of the Openclassrooms iOS training course.
 > In the last project, I use SwiftUI and Combine.
 
@@ -164,7 +165,7 @@ Novembre 2021
 ---
 April, 2022
 >#### Ongoing development of an application listing consumer product recalls.
-> Using Sourcetree and Gitflow
+> Using Sourcetree, Gitflow, SwiftUI and Combine
 >> [ProductRecall project](https://github.com/fredMilloh/ProductRecall)
 
 Mar 9, 2022
@@ -175,13 +176,14 @@ Mar 9, 2022
 Feb 28, 2022
 >#### Creation of an application to obtain recipes based on the inventory of one's fridge. Saving recipes in favourites.
 > Use an open source library Alamofire.
-> Managing a Table View with PrefetchDataSource for pagination. Use the delegate pattern.
+> Managing a Table View with PrefetchDataSource for pagination. Common cell in xib. Use the delegate pattern.
 > Saving data with Core Data.
 >><img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [WhatDoWeEat Reciplease project](https://github.com/fredMilloh/WhatDoWeEat)
 
 Jan 25, 2022
 > #### Build a travel application (conversion, translation, weather)
-> Making network calls with Swift.
+> Making network calls with URLSession.
+> UserDefaults, Storyboard references with TabBar, DataMocks.
 > Make unit tests.
 > Coding a multi-page application with Swift.
 >><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [Le Baluchon project](https://github.com/fredMilloh/TravelTools)
@@ -200,7 +202,7 @@ Nov 22, 2021
 
 Oct 28, 2021
 > #### Analyse your client's needs for their group of pizzerias
-> Analysing a customer need. List the features requested by a client. Writing detailed specifications for a project including context, use case, activity and class diagrams. Select a suitable technical solution, with arguments from reliable sources.
+> List the features requested by a client. Writing detailed specifications for a project including context, use case, activity and class diagrams. Select a suitable technical solution, with arguments from reliable sources.
 >><img width="100" src="https://user-images.githubusercontent.com/47221695/139226015-9385dc80-2896-4b23-8b75-dfb408ac507a.png">
 
 Sept 29, 2021
@@ -215,7 +217,7 @@ Sept 01, 2021
 
 Aug 04, 2021 
 > #### RPG game model in macOS project
-> Object-Oriented Programming with game model.
+> Object-Oriented Programming.
 >> [FightersClashes project](https://github.com/fredMilloh/FightersClashes)
 
 Jun 08, 2021    
