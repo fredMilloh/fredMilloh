@@ -2,23 +2,37 @@
 
 # fredMilloh
 
-> Etudiant Développeur d'Applications Mobiles iOS.
+> Développeur d'Applications Mobiles iOS.
 > Swift UIKit - SwiftUI
 
-> Il y a plusieurs mois, une cousine se plaignait de ne pas savoir où étaient les toilettes quand elle se promenait dans Paris. C'était le début de l'aventure avec iOS. 
-> Je me suis plongé dans le langage Swift, et lui ai fait une petite application [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin).
-> Depuis je n'arrête pas de me former et développer des applications dans le cadre du parcours de formation iOS d'Openclassrooms.
-> Dans le dernier projet, j'utilise SwiftUI et Combine.
+>#### Bienvenu sur mon profil
 
+> Il y a plusieurs mois, une amie se plaignait de ne pas trouver les toilettes quand elle se promenait dans Paris. C'était le début de l'aventure avec iOS. 
+> Je me suis plongé dans le langage Swift, et lui ai fait une petite application "ParisPetitCoin" (https://github.com/fredMilloh/fredMilloh).
+
+> Depuis j’ai développé d’autres applications dans le cadre de la formation iOS d'Openclassrooms [<img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">](https://github.com/fredMilloh/#Projets-d'applications-liés-au-programme-d'étude-de-l'école).
+
+> Le dernier projet libre du parcours permet d’appliquer les compétences acquises lors de la formation. J’ai mis en avant ma capacité d’apprendre à apprendre, en utilisant deux frameworks hors parcours. Ainsi l’application ProductRecall est implémentée avec SwiftUI et Combine, et permet de partager des rappels de produits de consommations issus de l’API du site gouvernemental interministériel RappelConso.
+
+> Chaque nouveau projet me motive en me permettant de progresser vers une écriture claire et testable (clean architecture).
+
+> Je serai ravi d’échanger avec vous pour partager mes compétences et continuer à évoluer pour acquérir une expertise.
+
+> #### - millotf@icloud.com -
+
+
+Juin 2022
+>#### Développement en cours de la seconde version de l'application ProductRecall (application créée lors du dernier projet de la formation iOS)
 
 ---
   # Projets d'applications liés au programme d'étude de l'école  
 
 ---
-Avril 2022
->#### Développement en cours d'une application listant les rappels de produits de consommation.
-> Utilisation de Sourcetree, Gitflow, SwiftUI et Combine
->> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
+Mai 2022
+>#### Création libre « from scratch » de la première version de l’application ProductRecall, permettant le partage des rappels de produits de consommations issus de l’API du site gouvernemental interministériel RappelConso.
+> Utilisation de SwiftUI, CoreData et Combine.
+> Versionnage Gitflow avec Soucetree.
+>><img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
 9 mars 2022
 > #### Construire une veille technologique
@@ -150,23 +164,38 @@ Novembre 2021
 
 # fredMilloh
 
-> Student iOS mobile application developer 
+> iOS mobile application developer 
 > Swift UIKit - SwiftUI
 
-> Several months ago, a cousin complained that she didn't know where the toilets were when she was walking around Paris. That was the beginning of the adventure with iOS. 
-> I immersed myself in the Swift language, and made her a little application [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin).
-> Since then I've been training and developing applications as part of the Openclassrooms iOS training course.
-> In the last project, I use SwiftUI and Combine.
+>#### Welcome to my profile
+
+> Several months ago, a friend of mine was complaining about not being able to find the toilets when she was walking in Paris. That was the beginning of the iOS adventure. 
+> I immersed myself in the Swift language, and made her a little application called "ParisPetitCoin" (https://github.com/fredMilloh/fredMilloh).
+
+> Since then I have developed other applications as part of the Openclassrooms iOS training [<img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">](https://github.com/fredMilloh/#Application-projects-related-to-the-school's-curriculum).
+
+> The last free project of the course allows to apply the skills acquired during the training. I put forward my ability to learn to learn, using two frameworks out of the course. Thus the ProductRecall application is implemented with SwiftUI and Combine, and allows to share consumer products reminders from the API of the interministerial governmental website RappelConso.
+
+> Each new project motivates me by allowing me to progress towards a clear and testable writing (clean architecture).
+
+> I will be happy to exchange with you to share my skills and continue to evolve to acquire expertise.
+
+> #### - millotf@icloud.com -
+
+
+June, 2022
+>#### Ongoing development of the second version of the ProductRecall application (application created during the last iOS training project).
 
 
 ---
   # Application projects related to the school's curriculum 
  
 ---
-April, 2022
->#### Ongoing development of an application listing consumer product recalls.
-> Using Sourcetree, Gitflow, SwiftUI and Combine
->> [ProductRecall project](https://github.com/fredMilloh/ProductRecall)
+May, 2022
+>#### Free creation "from scratch" of the first version of the ProductRecall application, allowing the sharing of consumer product recalls from the API of the interministerial governmental website RappelConso.
+> Using SwiftUI, CoreData and Combine.
+> Versioning Gitflow with Soucetree.
+>> <img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
 Mar 9, 2022
 > #### Building a technology watch
