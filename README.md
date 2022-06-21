@@ -13,7 +13,7 @@
 - [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png">
 
 > Depuis j’ai développé d’autres applications dans le cadre de la formation iOS d'Openclassrooms. 
-- [projets de la formation iOS](https://github.com/fredMilloh/#projets-d'applications-liés-au-programme-d'étude-de-l'école)
+-   [projets de la formation iOS](https://github.com/fredMilloh/#projets-d'applications-liés-au-programme-d'étude-de-l'école)
 
 > Le dernier projet libre du parcours permet d’appliquer les compétences acquises lors de la formation. J’ai mis en avant ma capacité d’apprendre à apprendre, en utilisant deux frameworks hors parcours. 
 > Ainsi l’application ProductRecall est implémentée avec SwiftUI et Combine, et permet de partager des rappels de produits de consommations issus de l’API du site gouvernemental interministériel RappelConso.
@@ -183,7 +183,8 @@ Novembre 2021
 > I immersed myself in the Swift language, and made her a little application called
 - [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png">
 
-> Since then I have developed other applications as part of the [Openclassrooms iOS training](https://github.com/fredMilloh/#application-projects-related-to-the-school's-curriculum) <img width="30" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">.
+> Since then I have developed other applications as part of the Openclassrooms iOS training.
+-   [iOS training projects](https://github.com/fredMilloh/#application-projects-related-to-the-school's-curriculum) <img width="30" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">.
 
 > The last free project of the course allows to apply the skills acquired during the training. I put forward my ability to learn to learn, using two frameworks out of the course. Thus the ProductRecall application is implemented with SwiftUI and Combine, and allows to share consumer products reminders from the API of the interministerial governmental website RappelConso.
 
