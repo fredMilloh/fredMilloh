@@ -10,7 +10,7 @@
 
 > Il y a plusieurs mois, une amie se plaignait de ne pas trouver les toilettes quand elle se promenait dans Paris. C'était le début de l'aventure avec iOS. 
 > Je me suis plongé dans le langage Swift, et lui ai fait une petite application
->> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) 
+- [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png">
 
 > Depuis j’ai développé d’autres applications dans le cadre de la formation iOS d'Openclassrooms. 
 - [projets de la formation iOS](https://github.com/fredMilloh/#projets-d'applications-liés-au-programme-d'étude-de-l'école)
@@ -32,7 +32,7 @@ Juin 2022
 ---
 
 ><img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
-# Projets d'applications liés au programme d'étude de l'école
+## Projets d'applications liés au programme d'étude de l'école
     
 
 ---
@@ -181,7 +181,7 @@ Novembre 2021
 
 > Several months ago, a friend of mine was complaining about not being able to find the toilets when she was walking in Paris. That was the beginning of the iOS adventure. 
 > I immersed myself in the Swift language, and made her a little application called
->> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin)
+- [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png">
 
 > Since then I have developed other applications as part of the [Openclassrooms iOS training](https://github.com/fredMilloh/#application-projects-related-to-the-school's-curriculum) <img width="30" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">.
 
@@ -202,7 +202,7 @@ June, 2022
 ---
 
 >><img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
-# Application projects related to the school's curriculum 
+## Application projects related to the school's curriculum 
  
 ---
 
