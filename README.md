@@ -2,11 +2,11 @@
 
 # fredMilloh
 
-> Développeur d'Applications Mobiles iOS.
+## Développeur d'Applications Mobiles iOS.
 
-> Swift UIKit - SwiftUI
+## Swift UIKit - SwiftUI
 
->### Bienvenu sur mon profil
+### Bienvenu sur mon profil
 
 > Il y a plusieurs mois, une amie se plaignait de ne pas trouver les toilettes quand elle se promenait dans Paris. C'était le début de l'aventure avec iOS. 
 > Je me suis plongé dans le langage Swift, et lui ai fait une petite application
@@ -29,12 +29,15 @@
 
 Juin 2022
 >#### Développement en cours de la seconde version de l'application ProductRecall (application créée lors du dernier projet de la formation iOS)
+> Correctif UI
+> Amélioration des tests unitaires
+
 
 ---
 
 # Projets 
 
-d'applications liés au programme d'étude de l'école <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
+Projets d'applications liés au programme d'étude de l'école  <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
 ---
 
 Mai 2022
@@ -173,11 +176,11 @@ Novembre 2021
 
 # fredMilloh
 
-> iOS mobile application developer 
+## iOS mobile application developer 
 
-> Swift UIKit - SwiftUI
+## Swift UIKit - SwiftUI
 
->### Welcome to my profile
+### Welcome to my profile
 
 > Several months ago, a friend of mine was complaining about not being able to find the toilets when she was walking in Paris. That was the beginning of the iOS adventure. 
 > I immersed myself in the Swift language, and made her a little application called
@@ -199,13 +202,15 @@ Novembre 2021
 
 June, 2022
 >#### Ongoing development of the second version of the ProductRecall application (application created during the last iOS training project).
+> UI fix
+> Improvement of unit tests
 
 
 ---
 
 # Application 
 
-projects related to the school's curriculum <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
+Application projects related to the school's curriculum  <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
 ---
 
 May, 2022
