@@ -9,7 +9,7 @@
 >### Bienvenu sur mon profil
 
 > Il y a plusieurs mois, une amie se plaignait de ne pas trouver les toilettes quand elle se promenait dans Paris. C'était le début de l'aventure avec iOS. 
-> Je me suis plongé dans le langage Swift, et lui ai fait une petite application "ParisPetitCoin" (https://github.com/fredMilloh/fredMilloh).
+> Je me suis plongé dans le langage Swift, et lui ai fait une petite application "ParisPetitCoin" <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin project](https://github.com/fredMilloh/ParisPetitCoin).
 
 > Depuis j’ai développé d’autres applications dans le cadre de la formation iOS d'Openclassrooms [<img width="30" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">](https://github.com/fredMilloh/#projets-d'applications-liés-au-programme-d'étude-de-l'école).
 
@@ -21,14 +21,18 @@
 
 > ###  millotf@icloud.com 
 
+---
 
 Juin 2022
 >#### Développement en cours de la seconde version de l'application ProductRecall (application créée lors du dernier projet de la formation iOS)
 
 ---
-  # Projets d'applications liés au programme d'étude de l'école  
+
+  <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
+  ## Projets d'applications liés au programme d'étude de l'école  
 
 ---
+
 Mai 2022
 >#### Création libre « from scratch » de la première version de l’application ProductRecall, permettant le partage des rappels de produits de consommations issus de l’API du site gouvernemental interministériel RappelConso.
 > Utilisation de SwiftUI, CoreData et Combine.
@@ -92,7 +96,7 @@ Mai 2022
 > #### Retour à l'école - Formation diplômante - Développeur d'applications iOS - niveau 6 (Bac+3/4)
 
  >> OpenClassrooms est un établissement privé d'enseignement à distance déclaré au rectorat de l'Académie de Paris. 
- >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/) 
+ >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/paths/501-developpeur-dapplication-ios) 
 
 ---
 # Projets personnels
@@ -172,9 +176,9 @@ Novembre 2021
 >### Welcome to my profile
 
 > Several months ago, a friend of mine was complaining about not being able to find the toilets when she was walking in Paris. That was the beginning of the iOS adventure. 
-> I immersed myself in the Swift language, and made her a little application called "ParisPetitCoin" (https://github.com/fredMilloh/fredMilloh).
+> I immersed myself in the Swift language, and made her a little application called "ParisPetitCoin" <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin project](https://github.com/fredMilloh/ParisPetitCoin).
 
-> Since then I have developed other applications as part of the Openclassrooms iOS training [<img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">](https://github.com/fredMilloh/#application-projects-related-to-the-school's-curriculum).
+> Since then I have developed other applications as part of the Openclassrooms iOS training [<img width="30" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">](https://github.com/fredMilloh/#application-projects-related-to-the-school's-curriculum).
 
 > The last free project of the course allows to apply the skills acquired during the training. I put forward my ability to learn to learn, using two frameworks out of the course. Thus the ProductRecall application is implemented with SwiftUI and Combine, and allows to share consumer products reminders from the API of the interministerial governmental website RappelConso.
 
@@ -184,15 +188,17 @@ Novembre 2021
 
 > ###  millotf@icloud.com 
 
+---
 
 June, 2022
 >#### Ongoing development of the second version of the ProductRecall application (application created during the last iOS training project).
 
 
 ---
-  # Application projects related to the school's curriculum 
+  ## <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png"> Application projects related to the school's curriculum 
  
 ---
+
 May, 2022
 >#### Free creation "from scratch" of the first version of the ProductRecall application, allowing the sharing of consumer product recalls from the API of the interministerial governmental website RappelConso.
 > Using SwiftUI, CoreData and Combine.
@@ -254,7 +260,7 @@ Aug 04, 2021
 Jun 08, 2021    
 > #### Back to school - Diploma course -  iOS application developer 
  >>  OpenClassrooms est un établissement privé d'enseignement à distance déclaré au rectorat de l'Académie de Paris.
- >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/) 
+ >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/paths/507-ios-developer) 
 
 ---
 # Personal projects
