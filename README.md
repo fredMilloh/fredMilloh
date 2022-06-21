@@ -32,7 +32,7 @@ Juin 2022
 ---
 
 ><img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
-## Projets d'applications liés au programme d'étude de l'école
+# Projets d'applications liés au programme d'étude de l'école
     
 
 ---
@@ -203,7 +203,7 @@ June, 2022
 ---
 
 >><img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
-## Application projects related to the school's curriculum 
+# Application projects related to the school's curriculum 
  
 ---
 
