@@ -6,31 +6,32 @@
 
 ## Swift UIKit - SwiftUI
 
-### Bienvenu sur mon profil
+### Bienvenu dans mon portfolio
 
-> Il y a plusieurs mois, une amie se plaignait de ne pas trouver les toilettes quand elle se promenait dans Paris. C'était le début de l'aventure avec iOS. 
-> Je me suis plongé dans le langage Swift, et lui ai fait une petite application
-- [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png">
-
-> Depuis j’ai développé d’autres applications dans le cadre de la formation iOS d'Openclassrooms. 
+Une première partie présente les projets de la formation iOS :
 
 [projets de la formation iOS](https://github.com/fredMilloh/#projets)
 
-> Le dernier projet libre du parcours permet d’appliquer les compétences acquises lors de la formation. J’ai mis en avant ma capacité d’apprendre à apprendre, en utilisant deux frameworks hors parcours. 
-> Ainsi l’application ProductRecall est implémentée avec SwiftUI et Combine, et permet de partager des rappels de produits de consommations issus de l’API du site gouvernemental interministériel RappelConso.
+avec notamment les liens vers les repositories des applications crées, comme :
 
-> Chaque nouveau projet me motive en me permettant de progresser vers une écriture claire et testable (clean architecture).
+> Application permettant le partage des rappels de produits de consommations, développée en SwiftUI.
+<img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
+
+> Application de recettes en fonction des ingrédients saisis, développée en Swift.
+<img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
+
+> Application de voyage avec conversion monétaire, traduction et météo.
+<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
+
+
+La seconde partie présente les projets personnels :
+
+[projets personnels](https://github.com/fredMilloh/#projets-personnels)
+
 
 > Je serai ravi d’échanger avec vous pour partager mes compétences et continuer à évoluer pour acquérir une expertise.
 
 > ###  millotf@icloud.com 
-
----
-
-Juin 2022
->#### Développement en cours de la seconde version de l'application ProductRecall (application créée lors du dernier projet de la formation iOS)
-> Correctif UI
-> Amélioration des tests unitaires
 
 
 ---
@@ -38,6 +39,7 @@ Juin 2022
 # Projets 
 
 Projets d'applications liés au programme d'étude de l'école  <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
+
 ---
 
 Mai 2022
@@ -109,10 +111,16 @@ Mai 2022
 # Projets personnels
 
 ---
+
+Juin 2022
+>#### Développement en cours de la seconde version de l'application ProductRecall (application créée lors du dernier projet libre de la formation iOS)
+> Correctif UI
+
+> Amélioration des tests unitaires
+
 Mars 2022
 > #### Formation Udemy SwiftUI MVVM et Combine
-> #### SwiftUI Property Wrappers par Audrey Tam (raywenderlich)
-> [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers)
+> [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers) par Audrey Tam (raywenderlich)
 
 Novembre 2021
 > #### Initiation SwiftUI
@@ -180,30 +188,32 @@ Novembre 2021
 
 ## Swift UIKit - SwiftUI
 
-### Welcome to my profile
+### Welcome in my portfolio
 
-> Several months ago, a friend of mine was complaining about not being able to find the toilets when she was walking in Paris. That was the beginning of the iOS adventure. 
-> I immersed myself in the Swift language, and made her a little application called
-- [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png">
-
-> Since then I have developed other applications as part of the Openclassrooms iOS training.
+A first part presents the projects of the iOS training:
 
 [iOS training projects](https://github.com/fredMilloh/#application) 
 
-> The last free project of the course allows to apply the skills acquired during the training. I put forward my ability to learn to learn, using two frameworks out of the course. Thus the ProductRecall application is implemented with SwiftUI and Combine, and allows to share consumer products reminders from the API of the interministerial governmental website RappelConso.
+with links to the repositories of the created applications, such as :
 
-> Each new project motivates me by allowing me to progress towards a clear and testable writing (clean architecture).
+> Application for sharing consumer product recalls, developed in SwiftUI.
+<img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
+
+> Application of recipes according to the ingredients entered, developed in Swift.
+<img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
+
+> Travel application with currency conversion, translation and weather.
+<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
+
+
+The second part presents the personal projects:
+
+[personal projects](https://github.com/fredMilloh/#personal-projects)
+
 
 > I will be happy to exchange with you to share my skills and continue to evolve to acquire expertise.
 
 > ###  millotf@icloud.com 
-
----
-
-June, 2022
->#### Ongoing development of the second version of the ProductRecall application (application created during the last iOS training project).
-> UI fix
-> Improvement of unit tests
 
 
 ---
@@ -211,6 +221,7 @@ June, 2022
 # Application 
 
 Application projects related to the school's curriculum  <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
+
 ---
 
 May, 2022
@@ -280,10 +291,16 @@ Jun 08, 2021
 # Personal projects
 
 ---
+
+June, 2022
+>#### Ongoing development of the second version of the ProductRecall application (application created during the last iOS training project).
+> UI fix
+
+> Improvement of unit tests
+
 Mars 2022
 > #### Udemy SwiftUI MVVM and Combine training
-> #### SwiftUI Property Wrappers by Audrey Tam (raywenderlich)
-> [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers)
+> [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers) by Audrey Tam (raywenderlich)
 
 November 2021
 > #### Introducing SwiftUI
