@@ -48,8 +48,11 @@ Projets d'applications liés au programme d'étude de l'école  <img width="40" 
 
 ---
 
+Juin 2022
+> #### Validation par le jury du Diplôme Développeur d'application - iOS
+
 Mai 2022
->#### Création libre « from scratch » de la première version de l’application ProductRecall, permettant le partage des rappels de produits de consommations issus de l’API du site gouvernemental interministériel RappelConso.
+> #### Création libre « from scratch » de la première version de l’application ProductRecall, permettant le partage des rappels de produits de consommations issus de l’API du site gouvernemental interministériel RappelConso.
 > Utilisation de SwiftUI, CoreData et Combine.
 > Versionnage Gitflow avec Soucetree.
 >><img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
@@ -139,23 +142,24 @@ Novembre 2021
 > #### Initiation SwiftUI
 > [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
 
-13 juillet 2021
+Juillet 2021
 > #### Publication *tutoriel* Xib et Storyboard sur [Hashnode](https://hashnode.com/).
 > Relation entre une vue Xib, le storyboard et le contrôleur.
 >> [Xib and Storyboard tutoriel](https://fredmillot.hashnode.dev/xib-and-storyboard)
 
-06 avril 2021
+Avril 2021
+> #### FirebaseCRUD 
+> Utilisation des méthodes Firebase pour l'authentification et le stockage des données. Authentification, base de données Firestore et Storage (images).
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
+
+Septembre 2020
 > #### ParisPetitCoin  
 > Application indiquant les toilettes gratuites à Paris avec géolocalisation et parcours piéton pour s'y rendre, en français et en anglais.
 > 
 > Récupération des données d'une API à l'aide de la bibliothèque Alamofire, annotations géolocalisées avec les frameworks Mapkit, CoreLocation.
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) 
 
-17 février 2021
-> #### FirebaseCRUD 
-> Utilisation des méthodes Firebase pour l'authentification et le stockage des données. Authentification, base de données Firestore et Storage (images).
->> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
->> 
+
 ---
 
 # Certificats obtenus en candidat libre 
@@ -243,6 +247,9 @@ I will be happy to exchange with you to share my skills and continue to evolve t
 Application projects related to the school's curriculum  <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
 
 ---
+
+June, 2022
+> #### Validation by the jury of the Application Developer - iOS Diploma
 
 May, 2022
 >#### Free creation "from scratch" of the first version of the ProductRecall application, allowing the sharing of consumer product recalls from the API of the interministerial governmental website RappelConso.
@@ -334,23 +341,23 @@ November 2021
 > #### Introducing SwiftUI
 > [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
 
-Jul 13, 2021
+July, 2021
 > #### Publication *tutorial* Xib and Storyboard on [Hashnode](https://hashnode.com/).
 > Relationship between an Xib view, the storyboard and the controller.
 >> [Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
 
-Apr 06, 2021
+April, 2021
+> #### FirebaseCRUD 
+> Using Firebase methods to authenticate and store data. CRUD authentication, Firestore Database and Storage (images).
+>> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
+
+September, 2020
 > #### ParisPetitCoin  
 > Application indicating free toilets in Paris with geolocation and pedestrian route to get there, in French and English.
 > 
 > Retrieving data from an API using the Alamofire library, geolocated annotations with frameworks Mapkit, CoreLocation.
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) 
 
-Feb 17, 2021
-> #### FirebaseCRUD 
-> Using Firebase methods to authenticate and store data. CRUD authentication, Firestore Database and Storage (images).
->> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
->> 
 ---
 # Certificate obtained as a free candidate 
 
