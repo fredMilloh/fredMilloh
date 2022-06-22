@@ -130,6 +130,11 @@ Mars 2022
 > #### Formation Udemy SwiftUI MVVM et Combine
 > [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers) par Audrey Tam (raywenderlich)
 
+Décembre 2021
+> #### Publication *tutoriel* Decode a nested JSON structure with Swift Decodable sur [Hashnode](https://hashnode.com/).
+> Utilisation d'outils de formattage ou de nestedUnkeyedContainer.
+>> [Tutoriel Decode a nested JSON structure](https://fredmillot.hashnode.dev/decode-a-nested-json-structure-with-swift-decodable)
+
 Novembre 2021
 > #### Initiation SwiftUI
 > [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
@@ -137,7 +142,7 @@ Novembre 2021
 13 juillet 2021
 > #### Publication *tutoriel* Xib et Storyboard sur [Hashnode](https://hashnode.com/).
 > Relation entre une vue Xib, le storyboard et le contrôleur.
->> [Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
+>> [Xib and Storyboard tutoriel](https://fredmillot.hashnode.dev/xib-and-storyboard)
 
 06 avril 2021
 > #### ParisPetitCoin  
@@ -319,6 +324,11 @@ June, 2022
 Mars 2022
 > #### Udemy SwiftUI MVVM and Combine training
 > [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers) by Audrey Tam (raywenderlich)
+
+December 2021
+> #### Publication *tutorial* Decode a nested JSON structure with Swift Decodable sur [Hashnode](https://hashnode.com/).
+> Use of formatting tools or nestedUnkeyedContainer.
+>> [Decode a nested JSON structure tutorial](https://fredmillot.hashnode.dev/decode-a-nested-json-structure-with-swift-decodable)
 
 November 2021
 > #### Introducing SwiftUI
