@@ -135,7 +135,7 @@ Novembre 2021
 > [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
 
 13 juillet 2021
-> #### Xib et Storyboard *tutoriel* sur [Hashnode](https://hashnode.com/).
+> #### Publication *tutoriel* Xib et Storyboard sur [Hashnode](https://hashnode.com/).
 > Relation entre une vue Xib, le storyboard et le contrôleur.
 >> [Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
 
@@ -325,7 +325,7 @@ November 2021
 > [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
 
 Jul 13, 2021
-> #### Xib and Storyboard *tutorial* on [Hashnode](https://hashnode.com/).
+> #### Publication *tutorial* Xib and Storyboard on [Hashnode](https://hashnode.com/).
 > Relationship between an Xib view, the storyboard and the controller.
 >> [Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
 
