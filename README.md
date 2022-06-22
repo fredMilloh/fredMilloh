@@ -6,30 +6,36 @@
 
 ## Swift UIKit - SwiftUI
 
+---
+
 ### Bienvenu dans mon portfolio
 
 Une première partie présente les projets de la formation iOS :
 
-[projets de la formation iOS](https://github.com/fredMilloh/#projets)
-
-avec notamment les liens vers les repositories des applications crées, comme :
-
-> Application permettant le partage des rappels de produits de consommations, développée en SwiftUI.
-<img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
-
-> Application de recettes en fonction des ingrédients saisis, développée en Swift.
-<img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
-
-> Application de voyage avec conversion monétaire, traduction et météo.
-<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
+ - [projets de la formation iOS](https://github.com/fredMilloh/#projets)
 
 
 La seconde partie présente les projets personnels :
 
-[projets personnels](https://github.com/fredMilloh/#projets-personnels)
+ - [projets personnels](https://github.com/fredMilloh/#projets-personnels)
 
 
-> Je serai ravi d’échanger avec vous pour partager mes compétences et continuer à évoluer pour acquérir une expertise.
+avec notamment les liens vers les repositories des applications crées, comme :
+
+> Application permettant le partage des rappels de produits de consommations, développée en SwiftUI.
+
+<img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
+
+> Application de recettes en fonction des ingrédients saisis, développée en Swift.
+
+<img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
+
+> Application de voyage avec conversion monétaire, traduction et météo.
+
+<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
+
+
+Je serai ravi d’échanger avec vous pour partager mes compétences et continuer à évoluer pour acquérir une expertise.
 
 > ###  millotf@icloud.com 
 
@@ -110,6 +116,8 @@ Mai 2022
 ---
 # Projets personnels
 
+Projets personnels
+
 ---
 
 Juin 2022
@@ -144,6 +152,7 @@ Novembre 2021
 >> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
 >> 
 ---
+
 # Certificats obtenus en candidat libre 
 
 ---
@@ -188,30 +197,36 @@ Novembre 2021
 
 ## Swift UIKit - SwiftUI
 
+---
+
 ### Welcome in my portfolio
 
 A first part presents the projects of the iOS training:
 
-[iOS training projects](https://github.com/fredMilloh/#application) 
-
-with links to the repositories of the created applications, such as :
-
-> Application for sharing consumer product recalls, developed in SwiftUI.
-<img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
-
-> Application of recipes according to the ingredients entered, developed in Swift.
-<img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
-
-> Travel application with currency conversion, translation and weather.
-<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
+ - [iOS training projects](https://github.com/fredMilloh/#application) 
 
 
 The second part presents the personal projects:
 
-[personal projects](https://github.com/fredMilloh/#personal-projects)
+ - [personal projects](https://github.com/fredMilloh/#personal-projects)
 
 
-> I will be happy to exchange with you to share my skills and continue to evolve to acquire expertise.
+with links to the repositories of the created applications, such as :
+
+> Application for sharing consumer product recalls, developed in SwiftUI.
+
+<img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
+
+> Application of recipes according to the ingredients entered, developed in Swift.
+
+<img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
+
+> Travel application with currency conversion, translation and weather.
+
+<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
+
+
+I will be happy to exchange with you to share my skills and continue to evolve to acquire expertise.
 
 > ###  millotf@icloud.com 
 
@@ -288,7 +303,10 @@ Jun 08, 2021
  >>  [OPENCLASSROOMS school](https://openclassrooms.com/fr/paths/507-ios-developer) 
 
 ---
+
 # Personal projects
+
+Personal projects
 
 ---
 
