@@ -10,7 +10,7 @@
 
 A first part presents the projects of the iOS training:
 
- - [iOS training projects](https://github.com/fredMilloh/#Application-projects-related-to-the-school's-curriculum) 
+ - [iOS training projects](https://github.com/fredMilloh/#iOS-training-projects) 
 
 
 The second part presents the personal projects:
@@ -40,7 +40,7 @@ I will be happy to exchange with you to share my skills and continue to evolve t
 
 ---
 
-# Application projects related to the school's curriculum
+# iOS training projects
 
 ---
 
