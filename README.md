@@ -40,7 +40,7 @@ I will be happy to exchange with you to share my skills and continue to evolve t
 
 ---
 
-# Application projects related to the school's curriculum  <img width="40" alt="LogoOpenclassrooms" src="https://user-images.githubusercontent.com/47221695/174850003-826beedc-d876-4fd2-b1c5-e2b5ef0352f6.png">
+# Application projects related to the school's curriculum
 
 ---
 
