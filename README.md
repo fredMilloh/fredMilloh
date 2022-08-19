@@ -47,10 +47,10 @@ I will be happy to exchange with you to share my skills and continue to evolve t
 June, 2022
 > #### Validation by the jury of the Application Developer - iOS Diploma
 
-May, 2022
+May, 2022 *ProductRecall* project
 >#### Mission: The project closing the iOS training is free and allows to mobilize the acquired skills.
->#### Action: Autonomous I learned and applied two new frameworks out of the course, SwiftUI and Combine.
->#### Result: The MVP application allows for immediate or future sharing of non-compliant consumer product recalls from the API of the interministerial governmental website RappelConso.
+>#### Action: Autonomous I learned and applied two new frameworks out of the course, SwiftUI and Combine. (autonomy skill to learn)
+>#### Result: The MVP application allows for immediate or future sharing of non-compliant consumer product recalls from the API of the interministerial governmental website *RappelConso*.
     The code is versioned with Sourcetree, and uses CoreData for persistence.
 
 >> <img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
@@ -60,11 +60,14 @@ Mar 9, 2022
 > Selection of relevant information sources.
 > Setting up a monitoring dashboard.
 
-Feb 28, 2022
+Feb 28, 2022 *WhatDoWeEat* project
+>#### Mission: For this project, a [specification](https://github.com/fredMilloh/WhatDoWeEat/files/9337498/Reciplease%2B-%2BCahier%2Bdes%2Bcharges%2B-%2BDA%2BiOS.pdf) is provided to create an application using the Alamofire library for network calls. Depending on the ingredients entered, the application displays a list of recipes.
+
+>#### Action: I created an MVVM architecture, and developed the viewModels in TDD. For the open source third party library, I used CocoaPods. Data passing is done with delegate patterns. The relevance is managed with Core Data.
+
+>#### Result: Only letters and commas are allowed for the input of ingredients. The application allows to save favorite recipes, managing a Table View with PrefetchDataSource for pagination, and displays alerts in case of input errors.
+
 >#### Creation of an application to obtain recipes based on the inventory of one's fridge. Saving recipes in favourites.
-> Use an open source library Alamofire.
-> Managing a Table View with PrefetchDataSource for pagination. Common cell in xib. Use the delegate pattern.
-> Saving data with Core Data.
 >><img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [WhatDoWeEat Reciplease project](https://github.com/fredMilloh/WhatDoWeEat)
 
 Jan 25, 2022
