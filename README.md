@@ -145,7 +145,7 @@ Validation by the jury of the Application Developer - iOS Diploma
 
 *Result*: The application allows to link the calculation operations with the four operators. Alerts inform the user in case of input error (double separator) or operation error (division by zero). The display is continuous by operation, and the priority of the operators is applied. 
 
->> <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [OpenHeartSurgery project](https://github.com/fredMilloh/OpenHeartSurgery)
+<img width="35"  src="https://user-images.githubusercontent.com/47221695/134814349-20de1b4c-04f8-4a3a-a6be-f708e3b9db4a.png"> [OpenHeartSurgery project](https://github.com/fredMilloh/OpenHeartSurgery)
 
 ---
 
@@ -196,7 +196,7 @@ UI fix - Improvement of unit tests
 
 > Publication *tutorial* Result type on [Hashnode](https://hashnode.com/).
 
->>[Result type tutorial](https://fredmillot.hashnode.dev/result-type)
+[Result type tutorial](https://fredmillot.hashnode.dev/result-type)
 
 Mars 2022
 
