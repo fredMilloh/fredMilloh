@@ -223,7 +223,7 @@ Site developed in HTLM5 and CSS3. Subject honey
 
 
 
-## PUBLICATION
+## PUBLICATIONS
 
 
 > June, 2022 - Publication *tutorial* Result type on [Hashnode](https://hashnode.com/).
@@ -287,13 +287,10 @@ Relationship between an Xib view, the storyboard and the controller.
 
 
 
-
----
 ---
 
-# Certificate obtained as a free candidate 
+## Certificates obtained as a free candidate 
 
----
   at OPENCLASSROOMS School
  
  > May 23, 2021
@@ -324,6 +321,7 @@ Learn to code with JavaScript
 
 Learn how to create your website with HTML5 and CSS3 
 
+---
 ---
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=fredMilloh&count_private=true&show_icons=true&hide=contribs)
 
