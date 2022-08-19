@@ -20,7 +20,7 @@ The second part presents the personal projects:
 
 with links to the repositories of the created applications, such as :
 
-> Application for sharing consumer product recalls, developed in SwiftUI.
+> Application MVP for sharing consumer product recalls, developed in SwiftUI.
 
 <img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
@@ -48,9 +48,11 @@ June, 2022
 > #### Validation by the jury of the Application Developer - iOS Diploma
 
 May, 2022
->#### Free creation "from scratch" of the first version of the ProductRecall application, allowing the sharing of consumer product recalls from the API of the interministerial governmental website RappelConso.
-> Using SwiftUI, CoreData and Combine.
-> Versioning Gitflow with Soucetree.
+>####Mission: The project closing the iOS training is free and allows to mobilize the acquired skills.
+>####Action: Autonomous I learned and applied two new frameworks out of the course, SwiftUI and Combine.
+>####Result: The MVP application allows for immediate or future sharing of non-compliant consumer product recalls from the API of the interministerial governmental website RappelConso.
+    The code is versioned with Sourcetree, and uses CoreData for persistence.
+
 >> <img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
 Mar 9, 2022
