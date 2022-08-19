@@ -245,6 +245,29 @@ Relationship between an Xib view, the storyboard and the controller.
 
 [Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
 
+---
+
+> May 2021 - Publication *tutorial* SwiftLint guide on [Hashnode](https://hashnode.com/).
+
+[SwiftLint guide](https://fredmillot.hashnode.dev/swiftlint-style-guide)
+
+---
+
+> April 2021 - Publication *tutorial* Localization App on [Hashnode](https://hashnode.com/).
+
+[Localization App](https://fredmillot.hashnode.dev/localization)
+
+---
+
+> March 2021 - Publication *tutorial* on [Hashnode](https://hashnode.com/).
+
+>> Custom Annotation
+
+[Custom Annotation tutorial](https://fredmillot.hashnode.dev/custom-annotation)
+
+>> Annotation et AnnotationView 
+
+[Annotation et AnnotationView tutorial](https://fredmillot.hashnode.dev/annotation-et-annotationview)
 
 ---
 
@@ -257,10 +280,8 @@ Relationship between an Xib view, the storyboard and the controller.
 
 > Mars 2022 - Udemy SwiftUI MVVM and Combine training
 
----
 
 > November 2021 - Introducing SwiftUI
-
 [Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
 
 
