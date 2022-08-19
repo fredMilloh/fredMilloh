@@ -44,12 +44,14 @@ I will be happy to exchange with you to share my skills and continue to evolve t
 
 ---
 
-June, 2022
-> #### Validation by the jury of the Application Developer - iOS Diploma
+> June, 2022 *Diploma*
+Validation by the jury of the Application Developer - iOS Diploma
 
-May, 2022 *ProductRecall* project
+> May, 2022 *ProductRecall* project
 Mission: The project closing the iOS training is free and allows to mobilize the acquired skills.
+
 Action: Autonomous I learned and applied two new frameworks out of the course, SwiftUI and Combine. (autonomy skill to learn)
+
 Result: The MVP application allows for immediate or future sharing of non-compliant consumer product recalls from the API of the interministerial governmental website *RappelConso*.
     The code is versioned with Sourcetree, and uses CoreData for persistence.
 
