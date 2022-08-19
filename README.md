@@ -48,12 +48,12 @@ June, 2022
 > #### Validation by the jury of the Application Developer - iOS Diploma
 
 May, 2022 *ProductRecall* project
->#### Mission: The project closing the iOS training is free and allows to mobilize the acquired skills.
->#### Action: Autonomous I learned and applied two new frameworks out of the course, SwiftUI and Combine. (autonomy skill to learn)
->#### Result: The MVP application allows for immediate or future sharing of non-compliant consumer product recalls from the API of the interministerial governmental website *RappelConso*.
+Mission: The project closing the iOS training is free and allows to mobilize the acquired skills.
+Action: Autonomous I learned and applied two new frameworks out of the course, SwiftUI and Combine. (autonomy skill to learn)
+Result: The MVP application allows for immediate or future sharing of non-compliant consumer product recalls from the API of the interministerial governmental website *RappelConso*.
     The code is versioned with Sourcetree, and uses CoreData for persistence.
 
->> <img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
+<img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
 Mar 9, 2022
 > #### Building a technology watch
