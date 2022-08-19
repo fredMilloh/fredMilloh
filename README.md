@@ -188,55 +188,20 @@ OpenClassrooms is a private institution of distance learning declared to the rec
 
 ---
 
-June, 2022
 
-> Improved the code of the ProductRecall application (application created during the last iOS training project).
 
-UI fix - Improvement of unit tests
+## PROJECTS
 
-> Publication *tutorial* Result type on [Hashnode](https://hashnode.com/).
 
-[Result type tutorial](https://fredmillot.hashnode.dev/result-type)
-
-Mars 2022
-
-> Udemy SwiftUI MVVM and Combine training
-
-[SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers) by Audrey Tam (raywenderlich)
-
-December 2021
-
-> Publication *tutorial* Decode a nested JSON structure with Swift Decodable on [Hashnode](https://hashnode.com/).
-
-Use of formatting tools or nestedUnkeyedContainer.
-
-[Decode a nested JSON structure tutorial](https://fredmillot.hashnode.dev/decode-a-nested-json-structure-with-swift-decodable)
-
-November 2021
-
-> Introducing SwiftUI
-
-[Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
-
-July, 2021
-
-> Publication *tutorial* Xib and Storyboard on [Hashnode](https://hashnode.com/).
-
-Relationship between an Xib view, the storyboard and the controller.
-
-[Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
-
-April, 2021
-
-> *FirebaseCRUD* project 
+> April 2021 - *FirebaseCRUD* project 
 
 Using Firebase methods to authenticate and store data. CRUD authentication, Firestore Database and Storage (images).
 
 <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814519-a2a197b3-6533-446f-bc39-6d5b8e6fdd3d.png"> [FirebaseCRUD](https://github.com/fredMilloh/FirebaseCRUD)
 
-September, 2020
+---
 
-> *ParisPetitCoin* project  
+> September 2020 - *ParisPetitCoin* project  
 
 Application indicating free toilets in Paris with geolocation and pedestrian route to get there, in French and English.
 
@@ -244,13 +209,62 @@ Retrieving data from an API using the Alamofire library, geolocated annotations 
 
 <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134814434-b88a8519-4f61-445c-92e1-8436995b518c.png"> [ParisPetitCoin](https://github.com/fredMilloh/ParisPetitCoin) 
 
-June, 2018
+---
 
-> *Autour du Miel* project
+> June 2018 - *Autour du Miel* project
 
 Site developed in HTLM5 and CSS3. Subject honey
 
 <img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134815601-ef992003-8ec7-4203-b824-362e572eefc7.png"> [Autour du Miel project](https://github.com/fredMilloh/autourDuMiel)
+
+---
+
+
+
+
+## PUBLICATION
+
+
+> June, 2022 - Publication *tutorial* Result type on [Hashnode](https://hashnode.com/).
+
+[Result type tutorial](https://fredmillot.hashnode.dev/result-type)
+
+---
+
+> December 2021 - Publication *tutorial* Decode a nested JSON structure with Swift Decodable on [Hashnode](https://hashnode.com/).
+
+Use of formatting tools or nestedUnkeyedContainer.
+
+[Decode a nested JSON structure tutorial](https://fredmillot.hashnode.dev/decode-a-nested-json-structure-with-swift-decodable)
+
+---
+
+> July 2021 - Publication *tutorial* Xib and Storyboard on [Hashnode](https://hashnode.com/).
+
+Relationship between an Xib view, the storyboard and the controller.
+
+[Xib and Storyboard tutorial](https://fredmillot.hashnode.dev/xib-and-storyboard)
+
+
+---
+
+
+
+
+## LEARNING
+
+> April 2022 - [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers) by Audrey Tam (raywenderlich)
+
+> Mars 2022 - Udemy SwiftUI MVVM and Combine training
+
+---
+
+> November 2021 - Introducing SwiftUI
+
+[Apple SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
+
+
+
 
 
 ---
