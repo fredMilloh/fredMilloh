@@ -28,10 +28,6 @@ with links to the repositories of the created applications, such as :
 
 <img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [projet WhatDoWeEat Reciplease](https://github.com/fredMilloh/WhatDoWeEat)
 
-> Travel application with currency conversion, translation and weather.
-
-<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [projet Le Baluchon](https://github.com/fredMilloh/TravelTools)
-
 
 I will be happy to exchange with you to share my skills and continue to evolve to acquire expertise.
 
@@ -44,41 +40,48 @@ I will be happy to exchange with you to share my skills and continue to evolve t
 
 ---
 
-> June, 2022 *Diploma*
+> June, 2022 **Diploma**
+
 Validation by the jury of the Application Developer - iOS Diploma
 
-> May, 2022 *ProductRecall* project
-Mission: The project closing the iOS training is free and allows to mobilize the acquired skills.
+> May, 2022 **ProductRecall** project
 
-Action: Autonomous I learned and applied two new frameworks out of the course, SwiftUI and Combine. (autonomy skill to learn)
+*Mission*: The project closing the iOS training is free and allows to mobilize the acquired skills.
 
-Result: The MVP application allows for immediate or future sharing of non-compliant consumer product recalls from the API of the interministerial governmental website *RappelConso*.
+*Action*: Autonomous I learned and applied two new frameworks out of the course, SwiftUI and Combine. (autonomy skill to learn)
+
+*Result*: The MVP application allows for immediate or future sharing of non-compliant consumer product recalls from the API of the interministerial governmental website *RappelConso*.
     The code is versioned with Sourcetree, and uses CoreData for persistence.
 
 <img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
-Mar 9, 2022
-> #### Building a technology watch
-> Selection of relevant information sources.
-> Setting up a monitoring dashboard.
+> Mar 9, 2022 **Technological watch** project
 
-Feb 28, 2022 *WhatDoWeEat* project
->#### Mission: For this project, a [specification](https://github.com/fredMilloh/WhatDoWeEat/files/9337498/Reciplease%2B-%2BCahier%2Bdes%2Bcharges%2B-%2BDA%2BiOS.pdf) is provided to create an application using the Alamofire library for network calls. Depending on the ingredients entered, the application displays a list of recipes.
+*mission*: Building a technology watch
 
->#### Action: I created an MVVM architecture, and developed the viewModels in TDD. For the open source third party library, I used CocoaPods. Data passing is done with delegate patterns. The relevance is managed with Core Data.
+*Action*: Selection of relevant information sources.
 
->#### Result: Only letters and commas are allowed for the input of ingredients. The application allows to save favorite recipes, managing a Table View with PrefetchDataSource for pagination, and displays alerts in case of input errors.
+*Result*: Setting up a monitoring dashboard.
 
->#### Creation of an application to obtain recipes based on the inventory of one's fridge. Saving recipes in favourites.
->><img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [WhatDoWeEat Reciplease project](https://github.com/fredMilloh/WhatDoWeEat)
+> Feb 28, 2022 **WhatDoWeEat** project
 
-Jan 25, 2022
-> #### Build a travel application (conversion, translation, weather)
-> Making network calls with URLSession.
-> UserDefaults, Storyboard references with TabBar, DataMocks.
-> Make unit tests.
-> Coding a multi-page application with Swift.
->><img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [Le Baluchon project](https://github.com/fredMilloh/TravelTools)
+*Mission*: For this project, a [specification](https://github.com/fredMilloh/WhatDoWeEat/files/9337498/Reciplease%2B-%2BCahier%2Bdes%2Bcharges%2B-%2BDA%2BiOS.pdf) is provided to create an application using the Alamofire library for network calls. Depending on the ingredients entered, the application displays a list of recipes.
+
+*Action*: I created an MVVM architecture, and developed the viewModels in TDD. For the open source third party library, I used CocoaPods. Data passing is done with delegate patterns. The relevance is managed with Core Data.
+
+*Result*: Only letters and commas are allowed for the input of ingredients. The application allows to save favorite recipes, managing a Table View with PrefetchDataSource for pagination, and displays alerts in case of input errors.
+
+<img width="40" src="https://user-images.githubusercontent.com/47221695/158056948-142aaeb0-8324-49ac-9598-98a2decd5b0b.png"> [WhatDoWeEat Reciplease project](https://github.com/fredMilloh/WhatDoWeEat)
+
+> Jan 25, 2022 *TravelTolls Le baluchon* project
+
+*mission*: For a future trip to New York, you want to have the tools you need on your smartphone, with an app that allows you to convert currency values, translate, and compare the weather with your home country.
+
+*action*: Read the documentation of three APIs, create templates for network calls with URLSession, customize the model for each API in a repository file, create feature folders for each user view so that evolutions are done feature by feature, make unit tests, coding amulti-page application with Swift.
+
+*result*: The bundle application offers a tab for each feature. The translation is possible among all European languages and reversible, for the weather, the user enters the city of his choice.
+
+<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/151042712-88210212-2a9c-474a-90d7-643adb253a79.png"> [Le Baluchon project](https://github.com/fredMilloh/TravelTools)
 
 Dec 22, 2021
 > #### Document your pizzeria management system.
