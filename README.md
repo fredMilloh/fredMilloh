@@ -183,6 +183,7 @@ OpenClassrooms is a private institution of distance learning declared to the rec
  [OPENCLASSROOMS school](https://openclassrooms.com/fr/paths/507-ios-developer) 
 
 ---
+---
 
 # Personal projects
 
@@ -287,7 +288,7 @@ Relationship between an Xib view, the storyboard and the controller.
 
 
 
-
+---
 ---
 
 # Certificate obtained as a free candidate 
