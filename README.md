@@ -158,8 +158,8 @@ Validation by the jury of the Application Developer - iOS Diploma
 
 *Result*: Instagrid allows you to create a frame of several photos and share the composition with a drag on the screen. Adapt to different screen sizes and orientations (responsive design).
 
- [Icon_20pt@2x](https://user-images.githubusercontent.com/47221695/134814265-5935cdfc-751f-4276-9ccf-23d92e0ecc67.png) [Instagrid project](https://github.com/fredMilloh/Instagrid)
-
+ ![Icon_20pt@2x](https://user-images.githubusercontent.com/47221695/134814265-5935cdfc-751f-4276-9ccf-23d92e0ecc67.png) [projet Instagrid](https://github.com/fredMilloh/Instagrid)
+ 
 ---
 
 
