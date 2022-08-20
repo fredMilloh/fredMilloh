@@ -6,7 +6,7 @@
 ## iOS mobile application developer Swift SwiftUI
 
 
-### Welcome in my portfolio
+**Welcome in my portfolio**
 
 A first part presents the projects of the iOS training:
 
@@ -31,7 +31,7 @@ with links to the repositories of the created applications, such as :
 
 I will be happy to exchange with you to share my skills and continue to evolve to acquire expertise.
 
-> ###  millotf@icloud.com 
+**millotf@icloud.com**
 
 
 ---
@@ -216,7 +216,9 @@ Retrieving data from an API using the Alamofire library, geolocated annotations 
 
 Site developed in HTLM5 and CSS3. Subject honey
 
-<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134815601-ef992003-8ec7-4203-b824-362e572eefc7.png"> [Autour du Miel project](https://github.com/fredMilloh/autourDuMiel)
+<img width="35" alt="Icon-20@2x" src="https://user-images.githubusercontent.com/47221695/134815601-ef992003-8ec7-4203-b824-362e572eefc7.png"> [Autour du Miel project repo](https://github.com/fredMilloh/autourDuMiel)
+
+[Autour du Miel project preview](https://fredmilloh.github.io/autourDuMiel/)
 
 ---
 
