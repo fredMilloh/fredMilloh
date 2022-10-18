@@ -196,7 +196,8 @@ OpenClassrooms is a private institution of distance learning declared to the rec
 
 Application to plan ingredient orders according to the established menus and the number of covers.
 
-<img width="35" alt="Logo" src="https://user-images.githubusercontent.com/47221695/196389136-619e601b-2a73-4d22-ab30-f4d6936b95e4.png">[HangryStock](https://github.com/fredMilloh/HangryStock)
+<img width="35" alt="Logo" src="https://user-images.githubusercontent.com/47221695/196389136-619e601b-2a73-4d22-ab30-f4d6936b95e4.png">
+[HangryStock](https://github.com/fredMilloh/HangryStock)
 
 ---
 
@@ -244,7 +245,7 @@ Site developed in HTLM5 and CSS3. Subject honey
 
 > August, 2022 - Publication *tutorial* Protocol and Mock WebService on [Hashnode](https://hashnode.com/).
 
-[Result type tutorial](https://fredmillot.hashnode.dev/protocol-and-mock-webservice)
+[Protocol and Mock WebService tutorial](https://fredmillot.hashnode.dev/protocol-and-mock-webservice)
 
 ---
 
