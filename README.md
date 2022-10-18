@@ -196,8 +196,7 @@ OpenClassrooms is a private institution of distance learning declared to the rec
 
 Application to plan ingredient orders according to the established menus and the number of covers.
 
-<img width="35" alt="Logo" src="https://user-images.githubusercontent.com/47221695/196389136-619e601b-2a73-4d22-ab30-f4d6936b95e4.png">
-[HangryStock](https://github.com/fredMilloh/HangryStock)
+<img width="35" alt="Logo" src="https://user-images.githubusercontent.com/47221695/196389136-619e601b-2a73-4d22-ab30-f4d6936b95e4.png"> [HangryStock](https://github.com/fredMilloh/HangryStock)
 
 ---
 
@@ -205,7 +204,8 @@ Application to plan ingredient orders according to the established menus and the
 
 Update unit test with mock URLSession
 
-<img width="35" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
+<img width="35" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> 
+[projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
 ---
 
