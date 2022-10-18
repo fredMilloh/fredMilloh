@@ -20,7 +20,7 @@ The second part presents the personal projects:
 
 with links to the repositories of the created applications, such as :
 
-> Application MVP for sharing consumer product recalls, developed in SwiftUI.
+> MVP application for sharing non-compliant consumer product recalls, developed in SwiftUI.
 
 <img width="40" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
@@ -190,9 +190,23 @@ OpenClassrooms is a private institution of distance learning declared to the rec
 ---
 
 
-
 ## PROJECTS
 
+> September 2022 - *HangryStock* project in progress
+
+Application to plan ingredient orders according to the established menus and the number of covers.
+
+<img width="35" alt="Logo" src="https://user-images.githubusercontent.com/47221695/196389136-619e601b-2a73-4d22-ab30-f4d6936b95e4.png">[HangryStock](https://github.com/fredMilloh/HangryStock)
+
+---
+
+> July 2022 - *ProductRecall* project refactor
+
+Update unit test with mock URLSession
+
+<img width="35" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
+
+---
 
 > April 2021 - *FirebaseCRUD* project 
 
@@ -227,6 +241,12 @@ Site developed in HTLM5 and CSS3. Subject honey
 
 ## PUBLICATIONS
 
+
+> August, 2022 - Publication *tutorial* Protocol and Mock WebService on [Hashnode](https://hashnode.com/).
+
+[Result type tutorial](https://fredmillot.hashnode.dev/protocol-and-mock-webservice)
+
+---
 
 > June, 2022 - Publication *tutorial* Result type on [Hashnode](https://hashnode.com/).
 
@@ -264,13 +284,9 @@ Relationship between an Xib view, the storyboard and the controller.
 
 > March 2021 - Publication *tutorial* on [Hashnode](https://hashnode.com/).
 
->> Custom Annotation
+>> [Custom Annotation tutorial](https://fredmillot.hashnode.dev/custom-annotation)
 
-[Custom Annotation tutorial](https://fredmillot.hashnode.dev/custom-annotation)
-
->> Annotation et AnnotationView 
-
-[Annotation et AnnotationView tutorial](https://fredmillot.hashnode.dev/annotation-et-annotationview)
+>> [Annotation et AnnotationView tutorial](https://fredmillot.hashnode.dev/annotation-et-annotationview)
 
 ---
 
@@ -278,6 +294,8 @@ Relationship between an Xib view, the storyboard and the controller.
 
 
 ## LEARNING
+
+> September 2022 - [SwiftUI Testing With ViewInspector for iOS](https://www.raywenderlich.com/30227776-swiftui-testing-with-viewinspector-for-ios) by Warren Burton (raywenderlich)
 
 > April 2022 - [SwiftUI Property Wrappers](https://www.raywenderlich.com/21522453-swiftui-property-wrappers) by Audrey Tam (raywenderlich)
 
