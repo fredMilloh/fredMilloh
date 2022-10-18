@@ -204,8 +204,7 @@ Application to plan ingredient orders according to the established menus and the
 
 Update unit test with mock URLSession
 
-<img width="35" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> 
-[projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
+<img width="35" src="https://user-images.githubusercontent.com/47221695/174842408-00378070-f76d-4051-a106-ca20322d74e2.png"> [projet ProductRecall](https://github.com/fredMilloh/ProductRecall)
 
 ---
 
