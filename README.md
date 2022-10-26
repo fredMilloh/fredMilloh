@@ -242,6 +242,12 @@ Site developed in HTLM5 and CSS3. Subject honey
 ## PUBLICATIONS
 
 
+> September, 2022 - Publication *tutorial* Mock session with typealias URLSession.DatataskPublisher.Output on [Hashnode](https://hashnode.com/).
+
+[Mock session with typealias URLSession.DatataskPublisher.Output](https://fredmillot.hashnode.dev/mock-session-with-typealias-urlsessiondatataskpublisheroutput)
+
+---
+
 > August, 2022 - Publication *tutorial* Protocol and Mock WebService on [Hashnode](https://hashnode.com/).
 
 [Protocol and Mock WebService tutorial](https://fredmillot.hashnode.dev/protocol-and-mock-webservice)
